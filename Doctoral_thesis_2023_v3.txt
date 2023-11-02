@@ -1,0 +1,2272 @@
+﻿
+
+
+BAHIAN SCHOOL OF MEDICINE AND PUBLIC HEALTH
+GRADUATE PROGRAM IN MEDICINE AND HUMAN HEALTH
+
+
+SILVANA MAGALHÃES PASSOS DE SOUZA
+
+
+
+
+
+STUDY OF PULMONARY INVOLVEMENT IN A SAMPLE OF PATIENTS WITH RHEUMATOID ARTHRITIS
+
+
+
+
+
+
+
+Salvador
+2023
+Silvana Magalhães Passos de Souza
+
+
+
+
+
+
+
+
+
+STUDY OF PULMONARY INVOLVEMENT IN A SAMPLE OF PATIENTS WITH RHEUMATOID ARTHRITIS
+
+
+
+
+
+Thesis presented to the Stricto Sensu Graduate Program in Medicine and Human Health at Escola Bahiana de Medicina e Saúde Pública as a partial requirement for obtaining the Title of Doctor in Medicine and Human Health.
+
+Advisor: Prof.  Prof. Post Dr. Mittermayer Barreto Santiago 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Salvador
+2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Catalog sheet prepared by the Integrated Library System
+
+
+ S729 Souza, Silvana Magalhães Passos de 
+                   Study of pulmonary involvement in a sample of patients with rheumatoid arthritis. /Silvana Magalhães Passos de Souza. – 2023.
+                    103f.: 30cm.
+                        
+                  Advisor: Prof..Prof. Dr. Mittermayer Barreto Santiago
+                                    
+                  PhD in Medicine and Human Health
+
+    Includes bibliographybibliography   .                    
+
+1. Rheumatoid arthritis. 2. Interstitial lung disease. 3. Pulmonary fibrosis. Santiago, Mittermayer Barreto. II. Study of pulmonary involvement in a sample of patients with rheumatoid arthritis.
+                                                                                                        
+                                                                                                           CDU: 616-72
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This thesis is dedicated to my family, especially to my mother and my children, who could understand my absence.
+
+
+
+
+INSTITUTIONS INVOLVED
+
+Bahian School of Medicine and Public Health (EBMSP);).
+Professor Edgar Santos University Hospital (HUPES) – Rheumatology, Pulmonology and Radiology Services.
+
+
+
+
+
+
+
+
+
+
+
+
+THANKS
+
+First, my gratitude is referenced to the Creator of the Universe, the Triune God, who inspired and empowered me from the beginning of the graduate course to its completion, finishing according to his permission.
+I thank my family, everyone who knew how to understand my absence, especially my mother and my children, who always cheered for me and enjoyed with  great joyjoy the moments that I had left, which I dedicated to them. To my cousin Mariene, faithful squire, friendfriend, and psychologist of all hours, who knew how to encourage me on the most challenging days and relax with her crazy way of being.
+To the advisor, Prof. Dr. Mittermayer Barreto Santiago, head of the Rheumatology service of HUPES, for his teachings and corrections, for all his trust and respect.
+I want to thank the Pulmonology Service of HUPES, especially Prof. Dr. Tatiana Senna Galvão Alves, who welcomed me from the beginning of the research and followed the patients participating in the study with great dedication and competence.
+To the Radiology Service of HUPES, which welcomed the research and treated the study's patients with great zeal.
+To the Laboratory of Clinical and Toxicological Analysis of the Faculty of Pharmacy of the Federal University of Bahia, especially in the person of Dr. Isabela Silva de Oliveira, for the care provided to patients with friendship and respect.
+To my illustrious head of service, Dr. Samuel Artur Cardoso de Souza, Director of Health of the Military Police of Bahia, for all his trust and respect.
+To all members of the Rheumatology Service of HUPES, preceptors and residents, it was extended to the medical students who passed through the service, who in some way collaborated with the study.
+Finally, to EBMSP, to the servers and the teachers, for all their support in this journey, which I conclude with great satisfaction.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"I Can Do All Things Through Christ Who Strengthens Me"
+(Philippians 4:13)
+
+
+
+ABSTRACT
+
+Rheumatoid arthritis (RA) is a chronic inflammatory disease characterized by pain and swelling in several joints. Despite the predominance of joint involvement, RA can affect various organs and systems, such as the heart, the nervous system, the eyes, and the lungs, among others. Pulmonary involvement is an importanta significant cause of morbidity and mortality, and its. Its manifestations may be varied, with different involvement ranging from interstitial infiltrates, bronchiectasis and bronchiolitis, pleural involvement, the presence of rheumatoid nodules in the lungs, vascular bed diseases, pulmonary toxicity due to the medication effect of drugs used in the treatment of the disease, and even secondary infectious processes. Interstitial lung disease (ILD) is the most prevalent manifestation, which may progress to pulmonary fibrosis and consequent respiratory failure, affecting the prognosis of the disease. The aims of this study wereThis study aimed to study the pulmonary involvement in RA through high-resolution computed tomography (HRCT), and to evaluate the associations between ILD and medications used in RA, ILD and disease activity in RA, as well as between pulmonary manifestations in RA with smoking and with the antibodies, rheumatoid factor (RF) and anti-cyclic citrullinated peptide (anti-CCP). This is a prospective, analytical and descriptive cross-sectional study in which patients with RA diagnosed according to the classification criteria by 2010 of the American College of Rheumatology (ACR) / EULAR (European Alliance of Associations for Rheumatology), assisted at the Rheumatology outpatient clinic of HUPES, in Salvador, Bahia, were included in the period from September 2019 to September 2022. All patients were submitted to a structured interview during a clinical evaluation, including baseline data such as age, gender, disease duration, use of disease course modifying medications (DCMM), corticosteroid use, and smoking exposure. Laboratory tests, HRCT and pulmonary function tests were performed. Disease activity was assessed using DAS 28 (disease activity score) and SDAI (simple disease activity index). A total of 203 patients were included in the analysis. One hundred seventy-nine (88%, 95%CI, 83 – 91.9) were female, mostly brown (64%; 95%CI, 57.2 – 70.3) and non-smokers (74.9%; 95%CI 68.4 – 80.3) with a mean age of 57.14 (± 11.65). Disease activity was most often classified as moderate, about 35% of patients by DAS-28 and 41.1% by SDAI. Almost half of the sample had positive antibodies, 47.5% with FR and 48.5% with anti-CCP. HRCT changes were seen in 89.6% of patients. ILD was present in 17% of the patients studied, and pulmonary fibrosis in 6.5%. RF was associated with the presence of ILD and small airway involvement. Male gender was associated with emphysema and small airway involvement. Male gender and older age were associated with smoking. Pulmonary involvement, when evaluated by HRCT, in the sample studied had a high prevalence and it is suggested that patients with RA should have this type of evaluation early in the course of the disease, even being asymptomatic.
+
+Keywords: Rheumatoid arthritis. Interstitial lung disease. Pulmonary fibrosis.
+
+
+
+
+
+
+LIST OF ABBREVIATIONS
+
+ABT 		AbatacepteAbatacept
+ACPA 	Antibodies against citrullinated proteins
+ACR 		American College of Rheumatology
+Anti-CCP 	Citrulline cyclic antipeptide
+Anti-CEP1 	Citrulline alpha enolase peptide 1-related antibody
+Anti-TNF 	Tumor necrosis factor inhibitors
+AIR 		Rheumatoid arthritis
+AZA 		AzathioprinaAzathioprine
+BALT 		Bronchi-associated lymphoid tissue
+BCG 		Bacilo de Calmette-Guérin
+BORGMI Modified BORG Scale 
+Zip code 		Research Ethics Committee
+CVF 		Forced vital capacity
+DAS-28 	Disease activity score 
+DDTC 	Diffuse connective tissue disease
+DLCO 	Diffusing Capacity of Carbon Monoxide
+DPA 		D-penicillamine
+DPI 		Interstitial lung disease 
+DPI-AR 	Interstitial lung disease associated with rheumatoid arthritis
+COPD 	Chronic obstructive pulmonary disease
+EBMSP 	Bahia School of Medicine and Public Health
+ECHO 		Transthoracic echocardiogram
+ECR 		Randomized clinical trial
+EULAR         European Alliance of Associations for Rheumatology
+FAN 		Antinuclear factor
+BUREAU 		Idiopathic pulmonary fibrosis
+FDA 		Food and Drug Administration
+FR 		Rheumatoid factor
+HAS 		Systemic arterial hypertension
+HLA 		Human leukocyte antigen
+HUPES 	Professor Edgar Santos University Hospital
+IL-6 		Interleukin 6
+LTBI 		Latent tuberculosis bacillus infection
+INH 		Isoniazid
+JAKi 		Janus Kinase Inhibitor
+KL-6 		Cancer of the lungs-6
+LDH 		Lactate dehydrogenase
+LES 		Systemic lupus erythematosus
+LFN 		LeflunomidaLeflunomide
+MMCD 	Disease-modifying drugs
+MMF 		Mycophenolate skunk
+MMPs 	MetaloproteinasesMetalloproteinases
+MRC             Medical Research Council
+MTX 		Methotrexate
+MUC5B 	Gain-of-function promoter in mucin 5B
+O2 		Oxygen
+PaO2		Blood pressure from oxygen
+PCR 		C-reactive protein
+PDGF-β 	Platelet-derived growth factor
+ENERGY 		Lymphocytic interstitial pneumonia
+PINE 		Nonspecific interstitial pneumonia
+MORE 		Pneumonia intersticialinterstitial usualRevisar este termo 
+
+PO 		Pneumonia in organization
+PPD 		Purified Protein Derivative
+RFP 		Rifampin
+RTX 		RituximabeRituximab
+SDAI 		Simple disease activity index
+SPSS 		Statistical Package for Social Sciences
+SS 		Sjogren's syndromeSjogrën syndrome
+SSZ 		SulfassalazinaSulfasalazine
+TB 		Active tuberculosis
+TCAR 	High-resolution computed tomography of the chest
+TCZ 		TocilizumabeTocilizumab
+TGF-β		Transformative Growth Factor
+TNF 		Tumor necrosis factor
+UFBA 		Federal University of Bahia
+VEGF 	Vascular endothelial growth factor
+VHS 		Erythrocyte sedimentation rate
+VR 		Reference value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+
+1 		INTRODUCTION	                                                                              16
+2 		OBJECTIVES	                                                                                         17
+2.1 		General Objective	                                                                              17
+2.2 		Specific objectivesObjectives	                                                                    17
+3 		LITERATURE REVIEW	                                                         18
+3.1 		Characteristics of pulmonary involvement in rheumatoid arthritis   21
+3.1.1 		Interstitial lung disease 21
+3.1.1.1 	CT patterns of ILD                                                                  24
+3.1.1.1.1 	Usual interstitial pneumonia (UIP)                                                       24
+3.1.1.1.2 	Nonspecific interstitial pneumonia (NSIP)                                     25
+3.1.1.1.3 	Organizing pneumonia (OP)                                                                        25
+3.1.1.1.4 	Diffuse alveolar damage	                                                                    26
+3.1.1.1.5 	Lymphocytic interstitial pneumonia (PIL)                                                26
+3.1.1.1.6 	Desquamative interstitial pneumonia                                                    26
+3.1.1.1.7 	Idiopathic pleuroparenchymal fibroelastosis                                       26
+3.1.1.2 	Diagnostic approach to ILD                                                               27
+3.1.1.3 	Therapeutic approach Approach in ILD                                                               28
+3.1.2 		Pleural Disease 34
+3.1.3 		Airway Diseases 35
+3.1.3.1 	Upper airway involvement                                                35
+3.1.3.2 	Lower airway involvement                                                   36
+3.1.3.2.1 	Follicular bronchiolitebronchiolitis                                                                            36
+3.1.3.2.2 	Constrictive bronchiolitis (obliterative bronchiolitis)Bronchiolite obliterativa (bronchiolite constrictive)                           37
+3.1.3.2.3 	Bronchiectasis                                                                                     37
+3.1.4 		Pulmonary rheumatoid nodules 38
+3.1.5 		Vascular Bed Disease 38
+3.1.6 		Drug toxicity 39
+3.1.6.1 	Synthetic MMCDs                                                                                     39
+3.1.6.1.1 	Methotrexate	                                                                                         39
+3.1.6.1.2 	LeflunomidaLeflunomide                                                                                           40
+3.1.6.1.3 	SulfassalazinaSulfasalazine                                                                                       40
+3.1.6.1.4 	D Penicillamine                                                                                       41
+3.1.6.1.5 	Gold Salts                                                                                          41
+3.1.6.2 	Immunosuppressants	                                                                              41
+3.1.6.2.1 	AzathioprinaAzathioprine                                                                                                41
+3.1.6.2.2 	Tacrolimus	                                                                                         41
+3.1.6.3 	Biological DCMM                                                                                    41
+3.1.6.3.1 	Anti-TNF                                                                                                 41
+3.1.6.3.2 	Abatacepte                                                                                                42
+3.1.6.3.3 	Tocilizumabe                                                                                         42
+3.1.6.3.4 	Rituximabe                                                                                             42
+3.1.6.4 	JAK Inhibitors	                                                                              42
+4 		METHODOLOGY                                                                                     44
+4.1 		Study design                                                                                44
+4.2 		Population selection                                                                          45
+4.3 		Statistical analysis	                                                                              47
+4.4 		Ethical aspects                                                                                     47
+5 		RESULTS                                                                                        49
+6 		DISCUSSION                                                                                            66
+7 		CONCLUSION                                                                                           74
+REFERENCES                                                                                       75
+ANNEX 1                                                                                                 85
+ANNEX 2                                                                                                 89
+ANNEX 3                                                                                                  94
+
+
+
+
+
+
+
+
+
+
+
+Este sumário está muito ruim. Irei deixar aqui como placeholder porém na versão final substituirémos por um índice dinâmico respeitando a numeração de páginas.
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+1 INTRODUCTION
+Rheumatoid arthritis (RA) is a chronic inflammatory disease characterized by pain and swelling in various joints. Despite the predominance of joint involvement, RA is a multisystemic, autoimmune disease that can affect several organs and systems such as the heart, nervous system, eyes, lungs, among others.
+Pulmonary involvement is an important causea worthy cause of morbidity and mortality. Manifestations can be varied and sometimes do not result in significant symptoms. However, they can represent different involvements, from interstitial infiltrates, bronchiectasis and bronchiolitis, pleural involvement, presence of rheumatoid nodules in the lungs, vascular bed diseases, pulmonary toxicity due to the drug effect of drugs used in the treatment of the disease, and even secondary infectious processes.
+ Interstitial lung disease (ILD) is the most prevalent manifestation and some cases may progress to pulmonary fibrosis and, consequently, respiratory failure, with repercussions on the prognosis of the disease. Unfortunately, ILD is underestimated mainly inin the early stagesinitial stages of subclinical disease. In fact, the epidemiology of ILD in RA is still unknown, and biomarkers for diagnostic and prognostic purposes are lacking. The results of existing scientific studies are not homogeneous and are insufficient to support therapeutic decisions. There is a greater need for the publication of data that clarify these doubts in the management of pulmonary involvement in RA, especially in ILD.
+In view of the lack of studies on the subject in our country, with the advantage of having a reference center for diffuse connective tissue diseases, especially RA, in the Rheumatology Service of HUPES, we propose the development of the present study.
+
+2 OBJECTIVES
+2.1 General objective
+To analyze pulmonary involvement in patients with rheumatoid arthritis.
+2.2 Specific objectives
+· By means of imaging, high-resolution computed tomography of the chest (HRCT), to study the various forms of pulmonary involvement in patients with rheumatoid arthritis;
+· To evaluate the association of interstitial lung disease with the use of medications for rheumatoid arthritis;
+· To analyze the association between interstitial lung disease and disease activity in rheumatoid arthritis;
+· To analyze the association of pulmonary manifestations in rheumatoid arthritis and smoking;
+· To investigate the association of antibodies such as rheumatoid factor and anti-CCP with pulmonary manifestations in rheumatoid arthritis.
+
+3 LITERATURE REVIEW 
+Rheumatoid arthritis, like other diffuse connective tissue diseases (TCDD), represents a heterogeneous group of immune-mediated inflammatory diseases and, like all ofall this group, is a chronic, multisystem disease that involves several organs or systems of the human body. In particular, RARA is highly prevalent, affecting approximately 1% of the general population (Fragoulis1, 2019). It has a predominance of joint involvement, affecting large and small joints with pain and edema and tending to cause deformities and disabilities. 
+It can be said that RA is one of the most prevalent chronic inflammatory diseases involving the joints. However, it includes extra-articular manifestations and early diagnosis is the key to therapeutic success, especially in patients with well-characterized risk factors, such as a high rate of disease activity, the presence of autoantibodies such as RF and/or anti-CCP, and early joint destruction (Smolen2, 2016). The diagnosis is made by means of the clinical picture, laboratorylaboratory, and radiological tests. Subchondral bone erosions develop in the first years of the disease (Anaya3, 1995). Therefore, early diagnosis of the disease is extremely important to promote specific treatment in order toto avoid complications as soon as possible. 
+The central pathology of RA develops within the synovium of the diarthrodial joints, however, manifestations in non-articular organs and tissues may also occur due to the multisystem immune-mediated inflammatory feature of the disease, particularly in patients with severe joint disease. Involvement of extra-articular systems occurs in approximately 40% of RA patients (Guellec4, 2020). 
+Risk factors for systemic extra-articular disease include age, presence of RF and/or anti-CCP, Human Leukocyte Antigen (HLA) DRB1 "shared epitope" alleles, disease duration, early joint destruction, disease activity index, early disability, and smoking (Turesson5, 2003). Extra-articular involvement in RA is an important marker of disease severity and is associated with increased overall morbidity and premature mortality (Gonzalez6, 2007). Not infrequently, they can occur as extra-articular manifestations, scleritis, subcutaneous nodules, serositis, vasculitis and lung disease. 
+Due to the chronic inflammatory state, in addition to genetic characteristics of some patients, extra-articular involvement and comorbidities may develop. Cardiovascular disease is a comorbidity of striking example. Patients with RA have up to twice the risk of acute myocardial infarction and up to 50% the increased risk of cardiovascular mortality (Figus7, 2020). Lung disease is an important causea compelling cause of mortality, emphasizing that the susceptibility of patients to infection due to treatment with immunosuppressive drugs can also increase the mortality rate.
+Regarding pulmonary involvement, it can occur in up to 60 to 80% of patients, many of whom are asymptomatic (Esposito8, 2019). It typically occurs around 5 years after the diagnosis of RA, and in 10 to 20% of cases, respiratory symptoms may precede the onset of joint symptoms (Kadura9, 2021). It is among the leading causes of death in RA, with mortality between 10 and 20% (Esposito8, 2019; Cassone10, 2020), with RA having two other important causes of death: cardiovascular disease and infection. 
+Symptoms related to respiratory system involvement may be masked by patients' poor functioning due to chronic joint inflammation and systemic disease, which can lead to delayed diagnosis. They are: cough, dyspnea, chest discomfort, malaise, weight loss, and fever. All chest compartments can be affected by RA, including the lung parenchyma, large and small airways, pleura, and, less frequently, vasculature. In addition, lung infection and toxicity from drugs used in the treatment of RA may also occur. Careful and periodic clinical evaluation is imperative, always keeping in mind TCDD, especially RA, in the face of a patient with a lung disease of unknown etiology (Esposito8, 2019). 
+ILD is the most frequent manifestation of lung involvement, with a prevalence of up to 80% in studies with lung biopsy (Tanaka11, 2004; Antin-Ozerkis12, 2010). Some say that ILD is the most common extra-articular manifestation in RA (Kadura9, 2021). Among other pulmonary manifestations, airway involvement, pleural involvement, and rheumatoid pulmonary nodules are reported, in order of frequency. 
+Although less frequent, vascular bed diseases are manifestations that can be seen in the context of pulmonary involvement in RA as, in some cases, an extension of interstitial involvement generating pulmonary hypertension (Esposito8, 2019). 
+Pulmonary toxicity due to drugs used for the treatment of RA is very relevant, among which are  the Disease Course Modifying Drugs (MMCD), whether synthetic, biological immunomodulators, and the so-called small molecules. The synthetics are mainly methotrexate (MTX), sulfasalazine (SSZ) and leflunomide (LFN) which have been implicated in the emergence of respiratory manifestations. The use of immunobiological therapy, such as tumor necrosis factor inhibitors (anti-TNF), has also been associated with the development or exacerbation of ILD in patients with RA (Jani13, 2014).
+Another possible potential agent of damage to the lungs is smoking, which can be considered an aggravating factor for RA in both the context of joint and extra-articular disease. We know that smoking promotes immunomodulation of Th1 cells into Th2 cells, increases the frequency of respiratory infection probably due to cross-reactivity, increases oxidative stress and protein citrullinizationcitrullination, and is considered a risk factor strongly associated with the production of anti-CCP antibodies (Kadura9, 2021).
+With the advent of more sophisticated radiological techniques, such as high-resolution computed tomography  (tomography (HRCT) of the chest obtained in advanced equipment devices, the diagnosis of pulmonary involvement in RA was performed in a much larger number of patients, with a predominance of CT findings of around 55% (Martinez14, 2011). Prior to HRCT, pleural effusion was the most common finding using plain radiography. With HRCT scans, interstitial lung abnormalities and small airway involvement have been identified, most of the time, in the context of subclinical disease. In general, the most frequently viewed CT findings are the presence of pulmonary infiltrates with a predominance of ground-glass alterations and septal and subpleural thickening, usually of small extent. 
+HRCT has a high correlation with the histological pattern and is considered an excellent tool for the diagnosis of ILD. Thus, lung biopsy is performed only in doubtful cases or for the differential diagnosis with other diseases such as lung cancer, sarcoidosis, and tuberculosis-like infections and pulmonary mycoses. Specifically, the most common tomographic alterations to be seen are: reticular pattern, interlobular septum thickening, ground-glass opacities, traction bronchiectasis, honeycombing, architectural distortion, mosaic perfusion, air trapping, nodules, cysts, emphysema, and budding tree (Cassone10, 2020).
+3.1 Characteristics of pulmonary involvement in rheumatoid arthritis
+3.1.1 Interstitial lung disease
+The first report in the literature of pulmonary involvement in RA was in Ellman P, Ball RE. Rheumatoid disease with joint and pulmonary manifestations. Brit Med J. 1948 nov. 6; 2(4583):816–20.
+ 1948 (Ellman, Ball, 1948 apud Tim15, 2010). Interestingly, the authors described three cases with classic manifestations of RA and extensive lung disease, in which two underwent autopsy, showing chronic fibrosing pneumonitis, i.e., extensive interstitial involvement with pulmonary fibrosis.
+Although RA is more common in women, RA-associated ILD (RA-ILD) occurs more frequently in men, especially in the fifth to sixth decades of life. Some risk factors for developing RA-ILD are male gender, advanced age, smoking, subcutaneous rheumatoid nodules, and high titers of RF and/or anti-CCP antibodies (Fazeli16, 2021). RA sufferers are nine times more likely to develop ILD than the general population (Esposito8, 2019).
+There is heterogeneity in the literature in the description of the prevalence of RA-ILD, with estimated values ranging from 1.8 to 60%. It can be said that RA-ILD is detected in up to 60% of patients due to abnormalities seen on HRCT scans, however clinically significant disease is diagnosed in approximately 10% of patients (Kadura9, 2021; Solomon17, 2016). Some authors comment that patients with RA-ILD may have a median survival of around 3 years (Tim15, 2010) and a mortality rate of 7% (Solomon17, 2016).
+In most cases, HRCT scans show interstitial lung abnormalities defined as alterations affecting more than 5% of any lung zone. May be compatible with clinically installed ILD or may be present on HRCT scans with no known or suspected ILD. These interstitial abnormalities without clinically significant ILD would be incidental findings, present in around 20 to 60% of RA patients who may progress radiologically in more than 50% of cases, in less than two years (Dourado18, 2020). Detecting them early provides a better follow-up, with a faster indication of treatment, reducing morbidity and mortality (Dourado18, 2020; Tomasseti19, 2022). On the other hand, the presence of abnormalities such as traction bronchiectasis associated with honeycombing may indicate a course of disease with greater radiological progression (Dourado18, 2020).
+An important aspect to address is the citrullinizationcitrullination of proteins that occurs physiologically and that, under normal conditions, does not trigger an immune response. Due to genetic predisposition and environmental factors, the breakdown of tolerance to autoproteinsauto proteins produces antibodies against citrullinated proteins (ACPA) such as anti-CCP that are more specific than RF (91 to 98%), with good sensitivity (51 to 83%), and identify individuals with more severe RA, with joint destruction and extra-articular involvement. Antibodies targeting citrullinated alpha enolasealpha-enolase peptide 1 (anti-CEP1) are ACPA found in more than 40% of RA carriers and associated with erosive disease and ILD (Alunno 20, 2018). Alpha enolase is a nuclear glycolytic enzyme that, under, normal conditions, inhibits the transcription of oncogenes, causing negative regulation of glycolysis, however, in RA, glycolysis is potentiated, enhancing the regulation and promoting the citrulinizationcitrullination of  alpha enolasalpha-eenolase. 
+Some other citrullinated proteins that function as antigens to ACPA are vimentin, fibrinogen, type II collagen, and viral citrullinated peptides (derived from the Epstein Barr virus). Thus, genetic factors and smoking are associated with increased citrullinizationcitrullination of proteins in the lung, exposing new epitopes to an autoimmune response. Protein citrullinizationcitrullination increases the binding of peptides to shared epitopes of HLA-DRB1, increasing immunogenicity. Other histocompatibility antigens show genetic predisposition as a higher risk for ILD, namely HLA-DR4, HLA-B54, HLA-DQ1B*0601, HLA-B40, HLA-DR4, HLADRB1*15, HLADRB1*16, DQB1*06 and HLA-A*31:01 alleles. HLA-DRB1SE has been associated with a protective role (Shaw21, 2015; Florescu22, 2022). 
+Being part of the etiopathogenesis of the fibrosis process, the inflammatory response promotes activation of cytokines, chemokineschemokines, and growth factors such as tumor necrosis factor (TNF), vascular endothelial growth factor (VEGF), platelet-derived growth factor (PDGF-β), transforming growth factor (TGF-β) and interleukins. All contribute to the differentiation and proliferation of fibroblasts, increased synthesis and deposition of extracellular matrix, and increased activation of matrix metalloproteinases (MMPs). PDGF-β is a pro-fibrotic and pro-inflammatory molecule with an important rolea key role in the pathogenesis of ILD. TGF-β also has a pro-fibrotic effect, differentiating fibroblasts into myofibroblasts that are primarily involved in the extracellular matrix in the process of fibrosis of the lungs. MMPs are produced by damaged epithelia that increase the recruitment of B and T cells, macrophages, and neutrophils, producing pro-fibrotic mediators. Cytokines also promote inflammation and fibrotic changes (Florescu22, 2022).
+Risk factors for progression in RA-ILD include advanced age, male gender, elevated lactate dehydrogenase (LDH), high RF and anti-CCP titers, CT pattern of usual interstitial pneumonia, extension of fibrosis on HRCT scans, and reduced forced vital capacity (FVC) and carbon monoxide diffusing capacity (DLCO). However, the presence of centrilobular or paraseptal emphysema with lower lobe fibrosis increases the risk of pulmonary hypertension (Shaw21, 2015). In a cohort conducted in China, advanced age at the time of RA diagnosis and extensive HRCT disease were associated with worse survival, predicting higher mortality (Li23, 2020).
+Some authors have published the association of serum biomarkers with disease, for example, a cohort of 252 patients reported an association between anti-CCP2 as an independent risk factor for lung disease (Aubart. More recently, a pilot study of 100 patients with RA described an association between anti-CEP-1 as a biomarker of risk for ILD and bone erosions (Alunno.    2    4    , 2011)    2    5    , 2018) Elevated FR-IgA titers greater than 200 IU/ml and initial HRCT with progressive disease are potential markers for the prognosis of RA-ILD (Chen26, 2022).
+Another biomarker, described for ILD associated or not with DDTC, is the Krebs von den Lungen-6 (KL-6) antigen, but its role in RA is still unknown (Zheng27, 2018; Kim28, 2020). KL-6 is a high molecular weight glycoprotein, located in alveolar epithelial cells, highly expressed in injured or regenerating epithelial cells, which is why it can be used as a biomarker of lung injury (Ishizaka29, 2004). It has been seen in previous studies that KL-6 can be a useful biomarker in the assessment of severity and prognosis in idiopathic pulmonary fibrosis (IPF) (Hamai30, 2016), in the extent of disease in RA-ILD (Kinoshita31, 2004) and predictor of mortality in RA-ILD (Lee32, 2016).
+ILD is composed of a spectrum of histological types with different clinical and radiological patterns. There is a very largea large spectrum of pulmonary histopathology in ILD in patients with RA, in which types are categorized according to the American Thoracic Society/European Respiratory Society classification system for idiopathic interstitial pneumonia (Travis33, 2013). The most common histopathological types are usual interstitial pneumonia (UIP), nonspecific interstitial pneumonia (NSIP), and organizational pneumonia (OP), in that order. Other patterns of pulmonary involvement in RA are macrophage (desquamative) interstitial pneumonia, diffuse alveolar damage, and lymphocytic interstitial pneumonia.
+3.1.1.1 ECD tomographic patterns
+The CT patterns of ILD are described below, emphasizing that histopathology and CT findings are highly correlated:
+3.1.1.1.1 Usual interstitial pneumonia (UIP)
+It is the most frequently visualized tomographic pattern in RA and the one with the worst prognosis. It is seen in approximately 60% of patients with RA-ILD (Kadura9, 2021; Cassone10, 2020). Most of them have predominantly basal subpleural reticular opacities, honeycombing areas, irregular septal thickenings, and traction bronchiectasis, predominating in the posterior regions of the lower lobes, especially in the cortical regions. There is a relative absence of ground-glass opacities and airway trapping. The findings are usually indistinguishable from those found in other diseases, but have been described as having a higher prevalence in UIP due to RA, exuberant honeycombing, involvement of the anterior margins of the upper lobes and posterior margins of the lower lobes with very clear margins between the regions of fibrosis and normal lung parenchyma. Honeycombing is a strong predictive parameter of mortality (Salaffi34, 2019). Patients with this pattern have a median survival of 8 years, similar tolike IPF (Salaffi34, 2019), and worse response to treatment. 
+The increase in the frequency of mutations in several surfactant protein genes associated with telomere maintenance and the presence of the gain-of-function promoter variant in mucin 5B (MUC5B) are described as genetic variations found in patients with RA-ILD, and the MCU5B variant was particularly associated with the UIP pattern (Esposito8, 2019). Alterations of this MCU5B variant indicate regeneration of the damaged epithelium and impaired mucociliary function. All ofAll these genetic mutations are associated with organ fibrosis, especially pulmonary fibrosis. The MCU5B variant, which is involved in airway clearance and host defense, is also associated with IPF and fibrotic hypersensitivity pneumonitis, being the strongest genetic risk factor for IPF, seen in at least 50% of IPF patients (Kadura9, 2021; Liang35, 2022).
+3.1.1.1.2 Nonspecific interstitial pneumonia (NSIP)
+The NSIP pattern is characterized by bilateral, peripheral, and irregular ground-glass opacities, predominantly basilar, usually sparing subpleural regions, associated with septal thickening, reticular and linear opacities, thickening of bronchovascular bundles, some bronchiectasis or traction bronchiolectasisbronchiectasis, and absence of honeycombing. It has an inflammatory pattern and a better therapeutic response (Solomon17, 2016; Shaw21, 2015). 
+3.1.1.1.3 Organizing pneumonia (OP)
+Computed tomography (CT) is seen as surrounding ground-glass opacities, parenchymal consolidations, and inverted halo sign, most often subpleural or peribronchial, often bilateral and confluent, with irregular or lobar distribution. An air bronchogram without externalizing secretion is present (Kadura9, 2021).
+3.1.1.1.4 Diffuse alveolar damage
+Diffuse alveolar damage occurs rarely in RA and presents as diffuse or focal consolidations, ground-glass opacities, and traction bronchiectasis (Esposito8, 2019).
+3.1.1.1.5 Lymphocytic Interstitial Pneumonia (PIL)
+It is characterized by thin-walled cysts, air-trapping cysts, centrilobular nodules, ground-glass opacities, and peribronchial septal thickening. It predominates in the upper lobes. It is the CT pattern most frequently found in Sjögren's syndrome (SS) (Esposito8, 2019).
+3.1.1.1.6 Desquamative interstitial pneumonia
+Desquamative interstitial pneumonia closely resembles LIP and is characterized by ground-glass attenuation, cysts, and reticular opacities in the lower lobes, which are predominantly peripheral (Kadura9, 2021).
+3.1.1.1.7 Idiopathic pleuroparenchymal fibroelastosis
+Still described in the literature as a ILD, idiopathic pleuroparenchymal fibroelastosis is a rare disease characterized by dense fibrosis of the visceral pleura and subpleural parenchyma, occurring peripherally and mainly in the upper lobes. It may be present in other diseases that cause ILD, including RA. Its lesions are idiopathic, but many cases arise in association with infections, lung injury, bone marrow or hematopoietic cell transplantation and autoimmune diseases. Risk factors for all-cause mortality were advanced age, lower FVC, and UIP pattern on HRCT scans. It was significantly associated with an increased risk of pneumothorax and a greater decline in lung function (Kang36, 2022).
+3.1.1.2 Diagnostic approach to ILD
+Among all ILD patterns in RA, UIP is the most similar to IPF, with certain phenotypic similarities, including the progressive fibrosing phenotype. Some risk variables are present in both, such as smoking, age, and gender. Several triggers trigger exaggerated cascades of inflammatory and fibrotic response, promoting extracellular matrix deposits and fibrosis formation. Genetic polymorphisms, as previously explained, also increase susceptibility to IPF and RA-ILD. Interestingly, ACPAs have recently been described in FPI. IgA-ACPA positivity was higher than IgG-ACPA positivity in patients with IPF, and the opposite in RA-ILD (Florescu22, 2022).
+Data reinforce the need to diagnose and characterize RA-ILD as early as possible to define a personalized therapeutic approach and prevent mortality. The recommendation for an initial screening for ILD investigation in all RA patients is subject to prospective evaluation. Screening strategies have not yet been established in RA-ILD and many approaches have been extrapolated from scleroderma or IPF.
+Patients with risk factors for ILD can be approached with pulmonary function tests and HRCT scans, especially smokers, in whom surveillance for lung cancer should not be forgotten. Asymptomatic patients or those with mild ILD should be followed up and repeat HRCT and pulmonary function tests between six and twelve months. If the first functional test is abnormal, follow up the patient every three months. The DLCO test is important and usually the first one that changes, and should be done and repeated when the condition worsens. For patients at higher risk of progression, as previously described, close monitoring with HRCT and pulmonary function tests every 3 to 6 months is suggested, and they are considered for therapy.
+Pay attention to some factors that are associated with an increased risk of fibrosis due to ILD: male gender; advanced age; degree of dyspnea; diffusion of DLCO < 40%; HRCT scans with a lot of fibrosis and honeycombing; pulmonary arterial hypertension; O2 desaturation < 88% in the 6 min walk test with dyspnea; a 5% drop in FVC >; and DLCO drop > 10%.
+In the case of a patient with RA fibrosis, it is important to diagnose the progression of the lung disease with respiratory worsening according to some criteria: a decline of more than 10% in FVC in the pulmonary function test; 5- to 10% decline in FVC plus worsening of symptoms; extent of disease on HRCT plus worsening of symptoms; and a 5- to 10% decline in FVC with worsening of the disease on HRCT scans. 
+3.1.1.3 Therapeutic approach in ILD
+There are no specific recommendations for the therapeutic management of RA-ILD. Due to its similarity to IPF, some similar measures are carried out with caveats. For example, the use of immunosuppressants is completely contraindicated in IPF, as demonstrated in the Panther study, which showed an increase in mortality and infections in IPF patients treated with immunosuppressants (Raghu37, 2012). On the other hand, such medications may have a certain value in the therapeutic approach to RA-ILD. 
+Due to the lack of evidence for the treatment of RA-ILD and its potential adverse effects, the decision to treat should be based on its benefits and the clinical presentation in the individual patient. In asymptomatic patients with non-progressive ILD, follow-up is usually chosen, and the evolution is expected. The treatment of joint damage will not always work for respiratory involvement. The role of immunosuppressants has not yet been well established in RA-ILD, especially if it is UIP. NSIP and PO patterns may have a more favorable response to immunosuppressants, however, some patients have mixed or unclassifiable HRCT patterns, and disease progression and therapeutic response are unpredictable (Cassone10, 2020). 
+The effect of corticosteroids on patients with UIP is still uncertain, and the risk of severe infections is increased due to chronic use of the medication.
+As for cyclophosphamide, there are no randomized controlled trials (RCTs) in RA-ILD. Even so, this drug is used in clinical practice mainly in rapidly progressive disease. It is not effective for arthritis, requiring the addition of synthetic DMARDs and corticosteroids when necessary (Schupp38, 2016; Barnes39, 2018). In a retrospective cohort in China, treatment with cyclophosphamide was associated with better survival, but did not specify the ILD pattern (Li23, 2020).
+Mycophenolate mofetil (MMF) is an alternative for treatment of ILD secondary to DDTC with a lower rate of side effects compared to cyclophosphamide. In RA-ILD, no data are available in the literature. In addition to being ineffective for arthritis, there are no controlled studies available to recommend it in RA-ILD (Cassone40, 2021).
+Azathioprine (AZA) has already been used effectively for RA-ILD, but authors in the literature have declared inconclusive results (Kelly41, 2016) and adverse effects (Ishida42, 2012; Oldham43, 2016).
+Calcineurin inhibitors (cyclosporine and tacrolimus) are therapeutic options in ILD by other TCDDs. Cyclosporine has been shown to be ineffective in RA-ILD (Ogawa44, 2000). Tacrolimus has not been used in RA-ILD, but in patients with myopathy-related ILD it has had a good therapeutic response (Wilkes45, 2005). These are drugs that often have limited use due to side effects, and efficacy remains undefined, requiring further studies.
+Synthetic and biological DMARDs have been shown to improve joint involvement in RA, but their impact on extra-articular manifestations, particularly ILD, is unclear. There are reports of good therapeutic response (Cassone10, 2020). Nevertheless, there are data on drug toxicity, including at the pulmonary level, with the development and worsening of ILD (Shaw21, 2015). In the past, MTX has been associated with lung toxicity, causing pneumonitis or even a chronic ILD. More recent data reveal that exposure to MTX is less associated with RA-ILD (Kiely46, 2018). A multicenter study, including Brazil, suggested that MTX has a modifying effect on RA-ILD, both by immunosuppressive effect and by indirect effect related to the reduction of systemic inflammation. In this study, it was clear that MTX is not associated with an increased risk of RA-ILD, which is detected later in patients treated with MTX (Juge47, 2021).
+Anti-TNF drugs have been used in the treatment of RA for more than twenty years, with a good response to joint damage. However, they have been associated with the onset or exacerbation of RA-ILD, although studies have been published showing that they can improve or stabilize RA-ILD. One study showed a mortality rate of 25% in patients with RA-ILD who used anti-TNF, all deaths occurred in the elderly, however, the sample size was small and AR-ILD and fibrosis status differed at the start of anti-TNF therapy. Even so, the authors concluded that anti-TNF drugs should be used with caution in older RA patients who are predisposed to ILD (Koo48, 2015). The British Society for Rheumatology Biologics Register reported that the mortality rate from RA-ILD did not increase with anti-TNF treatment, but the proportion of deaths attributable to RA-ILD was higher in patients treated with anti-TNF compared with synthetic DMARDs (Dixon49, 2010). 
+A more recent study concluded that it is still difficult to confirm whether anti-TNF is beneficial or harmful to ILD and physicians should be cautious and attentive to its prescription (Huang50, 2019). A review of the literature totaling 96 patients showed that 48.4% of patients improved RA-ILD, 36.1% stabilized, and 15.5% worsened with anti-TNF (Cassone10, 2020). The conduct of whether or not to use anti-TNF in the face of the diagnosis of RA-ILD would be at the discretion of each medical service. If the patient was already using it before the diagnosis of lung disease and the ILD is mild, it can be maintained and the patient monitored. If the course is unfavorable with progression of ILD, discontinue the drug. For patients who were not using ILD before the diagnosis of ILD, it is reasonable that it should not be introduced in the face of a clinically established ILD.
+Abatacept (ABT) is a recombinant human fusion protein that inhibits T-cell co-stimulation, used with favorable results in RA-ILD, reducing tomographic changes and the histological score of fibrosis with improvement in FVC and DLCO, and it has been demonstrated in a literature review that, in 187 patients related to nine research studies, 74.9% stabilized ILD,  16.6% improved and 8.5% worsened (Cassone10, 2020). In a retrospective multicenter study by these same authors, ABT was safe for both the treatment of RA and RA-ILD (Cassone51, 2020). A retrospective cohort in Japan with a sample of 49 patients, all using biologics between anti-TNF, ABT, and tocilizumab (TCZ), showed a better outcome in the treatment of RA-ILD with ABT, which is an independent protective factor for exacerbation or emergence of ILD after the introduction of biological DMARDS (Kurata52, 2019). Bristol Myers Squibb, the pharmaceutical company that produces ABA, reported in January 2023 the shortage of this medication due to delays in the supply chain, with no forecast for future manufacturing.
+Interleukin 6 (IL-6) is a pro-inflammatory cytokine that has pro-fibrotic effects, suggesting a potential benefit of anti-IL6 in the treatment of RA-associated fibrosis (Cassone10, 2020). TCZ has been shown to have a good safety profile and a potential effect on stabilizing lung disease (Manfredi53, 2020).
+Rituximab (RTX), a chimeric anti-CD20 monoclonal antibody, is considered a safe drug, including severe refractory forms. It was effective both in stabilizing the disease and in stabilizing pulmonary function parameters (FUI55, 2020), but several authors have described pulmonary toxicity in patients with hematological diseases who used RTX (Zhou54, 2018). 
+Data on JAK inhibitors (JAKi) in ARD-ILD are limited. These are MMCD that are considered small, synthetic molecules with specific targets. In the clinical development programs of tofacitinib and baracitinib in RA, 0.1% of patients developed ILD (Japanese Package Inserts of Tofacitinib56, 2018  apud Cassone10, 2020;  Elli_Lilly_and_Company. Japanese Package Inserts of Baricitinib (in Japanese). Available at: http://www.info.pmda.go.jp/go/pack/3999043F1020_1_02/. Accessed on: 16 jul. 2018.
+Japanese Package Inserts of Baracitinibe57, 2018 apud Cassone10, Pfizer. Japanese Package Inserts of Tofacitinib (in Japanese). Available at: http://www.info.pmda.go.jp/go/pack/3999034F1020_1_09/. Accessed on: 16 jul. 2018.
+ 2020). A retrospective Italian study in a sample of seventy-five patients with RA-ILD, eighteen of them using baracitinib, thirteen on tofacitinib and forty-four treated with ABT, showed that JAKi were effective in delaying fibrosis in RA-ILD and can be chosen as the first option in those patients with active synovitis and ILD before the stage of pulmonary fibrosis (Tardella58,  2022).
+As mentioned above, RA-ILD and IPF are similar in some aspects, especially in patients with UIP, whether in clinical behavior, progressive fibrosing phenotype, prognosis and survival, or in genetic risk factors. In this way, antifibrotic therapy can improve the fibrotic process and reduce the progression of lung disease. Combination with immunosuppressant may be a promising approach (Cassone10, 2020). 
+Nintedanib and pirfenidone are antifibrotics approved by the U.S. Food and Drug Administration (FDA) and the European Medicines Agency for the treatment of IPF. Nintedanib inhibits tyrosine kinase by targeting fibrotic receptors of tyrosine kinases involved in fibrosis. Pirfenidone inhibits stress-activated kinases and modulates the expression of pro-fibrotic growth factors and pro-inflammatory cytokines, reducing fibroblast proliferation and alveolar macrophage activation (Liang35, 2022). 
+The INBUILD study evaluated the efficacy and safety of nintedanibnintedanib in patients with ILD other than IPF, including AR-ILD. Although it was not designed to show benefits in patients with autoimmune diseases, it showed that 52% of ILDs related to autoimmune diseases were due to RA-ILD (Flaherty59, 2019). Even though its safety and efficacy have been proven, nintedanib is not part of the medical prescription in a common way due to its high cost and the gastrointestinal intolerance of many patients, especially diarrhea. TRAIL1 was a phase 2, randomized, double-blind, placebo-controlled study to evaluate the safety, tolerability, and efficacy of pirfenidone in patients with RA-ILD, but was discontinued early due to slow recruitment and the COVID-19 pandemic (Solomon60, 2022). A potential therapeutic role of pirfenidone can be hypothesized in RA-ILD (Cassone61, 2020).
+In general, even without established guidelines on the management of therapy and follow-up of patients with RA-ILD, some of the measures listed below should be performed unanimously among specialists:
+a) Multidisciplinary follow-up – Rheumatology, Pulmonology and Radiology.
+b) Incisively advise not to smoke – Cigarette smoke is implicated in the pathogenesis, induction and worsening of RA and RA-ILD, reducing the therapeutic response and survival of patients. 
+c) Vaccinate for pneumococci and influenza – The guidance is for all patients with RA to be vaccinated, especially those using corticosteroids, immunosuppressants and biological DMARD, due to the high riskelevated risk of severe infections.
+d) Perform prophylaxis for pneumocystosis (Pneumocystis jirovecii) in immunosuppressed patients.
+e) Rule out potentially triggering exposures such as mold, birds, periodontitis.
+f) Treat comorbidities – chronic obstructive pulmonary disease (COPD), asthma, gastroesophageal reflux, heart failure, coronary artery disease, sleep apnea.
+g) Watch out for drug toxicity.
+h) Adequate follow-up: pulmonary and articular – Well-treated joint disease contributes to good control of the respiratory condition.
+i) Oxygen (O2) delivery to patients with hypoxemia at rest, with O2 blood pressure (PaO2) less than 55 mmHg, O2 saturation less than 89%, or PaO2 less than 60 mmHg in the presence of cor pulmonale or polycythemia. O2 supplementation is a palliative therapy of great importancesignificant importance in patients with severe lung disease, reducing respiratory symptoms during daily activities and improving quality of life.
+j) Respiratory rehabilitation has a beneficial effect on dyspnea, functional exercise capacity, and quality of life, but in RA this benefit may be compromised by the physical limitation caused by joint damage.
+k) Treat acute exacerbation, which may cause rapid deterioration with newly developed bilateral ground-glass opacities and/or consolidations on HRCT superimposed on the fibrosing ILD pattern, usually lasting less than one month. It can occur at any time of the disease, has a poor prognosis and high mortality. In the case of acute exacerbation, infection, left heart failure, pulmonary embolism, exacerbation of COPD, or asthma, among other pulmonary lesions, should be excluded. Advanced age and UIP pattern are risk factors for exacerbation. About 20% of patients develop acute exacerbations (Liang35, 2022). 
+l) Lung transplantation – may be a beneficial therapeutic strategy in end-stage RA-ILD. However, manifestations other than pulmonary involvement may complicate or contraindicate the procedure.
+3.1.2 Pleural Disease
+Small pleural effusions are observed in up to 70% of RA patients in autopsy studies (Shaw21, 2015). Small unilateral pleural effusion usually occurs. It is more frequent in older men and those with pulmonary nodules. About 3 to 5% are symptomatic. It usually causes fever and chest pain, but coughing is uncommon. Pleural fluid is an exudate, with low pH (pH < 7.3), low glucose (< 60 mg/dl) and increased LDH. Cell counts are variable, often with a predominance of lymphocytes, but neutrophils and eosinophils are also seen. RF is often found in the pleural fluid. It has been associated with the presence of HLA-B8 (Esposito8, 2019). Adenosine deaminase, as in pleural tuberculosis, is usually elevated by increased cellularity with a predominance of polymorphonuclear cells and stimulation of T lymphocytes as a response to mediated cellular immunity. 
+Its pathogenesis occurs by the reabsorption of fluid by the inflamed tissue, necrosis of subpleural rheumatoid nodules and local production of cytokines and immune complexes, causing endothelial injury and capillary permeability.
+In chronic pleural effusions, the fluid may have the appearance of a "pseudochylouspseudochyle" due to the presence of cholesterol crystals, differing from chylothorax in that triglycerides and chylomicrons are not seen, findings typically seen in chylothorax.
+Thoracocentesis should be performed in every effusion larger than 1 cm on decubitus imaging in order to rule out cancer and infection, especially tuberculosis. Sometimes, a biopsy is necessary.
+Pleural empyema may have the same characteristics as pleural effusion caused by RA, with low pH, low glucose, and elevated LDH. Therefore, bacterial infection should always be ruled out. "Sterile" empyema can occur due to rupture of a necrotic subpleural rheumatoid nodule and subsequent bronchopleural fistula (Shaw21, 2015). 
+Long-standing chronic pleural inflammation can form a fibrous, shell-like film, causing a stiff lung unable to reexpandexpand after drainage of pleural fluid.
+Therapy of pleural disease consists of the therapeutic management of RA. Decortication may be indicated in cases of trapped lung, in those patients with severe pleural thickening (Shaw21, 2015). 
+3.1.3 Airway Diseases
+3.1.3.1 Upper Airway Involvement
+Upper airway involvement, which is part of respiratory diseases in RA, is more frequent in women with severe or long-standing disease. It can occur due to the presence of rheumatoid nodules on the vocal cords, cricoarytenoid arthritis, bamboo nodules in the airways, and vasculitis affecting the recurrent laryngeal or vagus nerves and causing vocal cord paralysis. Bamboo nodules are yellowish cystic nodules arranged in the submucosal space of the vocal folds and correlate with antibody deposits. Similarly to arthritis of other locations, synovial thickening and increased synovial fluid in the cricoarytenoid joint cause progressive cartilage erosion and joint subluxation (Shaw21, 2015). 
+Often, the disease progresses silently, but when present, the symptoms described are sore throat, dysphonia, odynophagia, dysphagia, stuffiness, cough, exertional dyspnea, stridor, pharyngeal globe, and foreign body sensation in the throat. Dysphonia is the most frequent. Symptoms are undervalued by physicians' increased concern about joint damage, sincedamage since arthritis is clearly visible with joint edema and deformities. Acute respiratory failure due to edema and subluxation may occur with sudden-onset stridor and the need for an urgent therapeutic approach, such as tracheostomy (Esposito8, 2019; Shaw21, 2015). 
+Laryngeal involvement is underestimated. There are few studies in the literature on the subject, most likely due to the preponderance of a subclinical evolution in the vast majority of cases. In a series of 45 RA patients, vocal cord edema-like alterations and cricoarytenoid lesions were seen in approximately 30% of the patients (Lawry62, 1984). The prevalence ranges from 13 to 75% in different studies and from 45 to 88% in post-mortem  studies (Beirith63, 2013). A study conducted at a university hospital in southern Brazil reported dysphonia in 12.8% and laryngoscopy abnormalities in 72.4% in a sample of 47 patients (Beirith63, 2013).
+Nodules may be present in the upper airways, usually described as mild, diagnosed only by videolaryngoscopy, histopathology, or until they become lush in the shape of bamboo. These are not pathognomonic of RA, and may exist in autoimmune diseases such as lupus, Hashimoto's thyroiditis, SSSS, and autoimmune hepatitis (Beirith63, 2013).
+The histopathological changes described are synovial proliferation with fibrin deposition and formation  of pannus in the initial stage of the disease with subsequent ankylosis and obliteration of the joint. Rheumatoid nodules can be seen as submucosal cystic masses in the anterior and middle third of the vocal cords with areas of focal necrosis surrounded by an epithelioid zone and fibrinoid necrosis (Hamdan64, 2007).
+3.1.3.2 Lower airway involvement
+RA is associated with airway hyperresponsiveness, small airway disease, and bronchiectasis. Smoking, when present, can be a strong confounding factor. RA bronchiolitis is indistinguishable from other causes and includes constrictive bronchiolitis, follicular bronchiolitis and, rarely, diffuse panbronchiolitis. The prevalence of bronchiolar disease is very varied (Esposito8, 2019).
+3.1.3.2.1 Follicular bronchiolitebronchiolitis
+It is characterized by bronchi-associated lymphoid tissue hyperplasia (BALT) and has been associated with DDTC including RA, SS, systemic lupus erythematosus (SLE), and in immunodeficiency disorders. HRCT scans present with centrilobular peribronchial nodules smaller than 3 mm, bronchial dilatation, and wall thickening. There is no honeycombing. Spirometry is usually a restrictive pattern, however obstructive pattern not surprisingly can be seen. It is pathologically related to lymphoproliferative disease, such as PIL. Biopsy with immunohistochemistry should be stimulated to rule out malignancy. Treatment is directed towards RA. In severe or very symptomatic cases, corticosteroids and macrolide antibiotics are indicated. In cases of greater evidence of lymphoid aggregates, RTX may be indicated. It has a better prognosis than obliterative bronchiolitis (Esposito8, 2019).
+3.1.3.2.2 Constrictive bronchiolitis (obliterative bronchiolitis)Bronchiolite obliterativa (bronchiolite constrictive)
+This is a more serious and fatal situation due to the progressive thickening of the bronchioles. It occurs more frequently in women, with positive RF, untreated and long-standing disease. It has been described in patients using gold salts, D penicillamine (DPA) and SSZ. It begins acutely with rapidly progressive dyspnea, cough, and bronchorrhoeabronchorrhea without other systemic symptoms. HRCT is nonspecific. There may be centrilobular emphysema, bronchiectasis, bronchial wall thickening, or mosaic attenuation. Pulmonary function tests show an obstructive pattern and normal DLCO. As a treatment, it is primarily considered to treat RA. Corticosteroids can be used in larger doses, but they do little to improve. Macrolides respond better, and some cases have responded well to anti-TNF (Shaw21, 2015). 
+3.1.3.2.3 Bronchiectasis
+These are dilatations of the large- and medium-caliber bronchi, bilateral and cylindrical, found in up to 30% on HRCT images, but they usually proceed silently (Esposito8, 2019). The tomographic image is of a signet ring. They can be silent, precede or follow RA (Kadura9, 2021). The most frequent symptoms are productive cough, dyspnea, and hemoptysis. Patients have increased severity and mortality rates when compared to patients with idiopathic bronchiectasis (Esposito8, 2019). 
+There is no specific therapy in patients with RA, and treatment of any of the other conditions that cause bronchiectasis is not different. Thus, therapeutic management consists of bronchodilators, bronchial hygiene, and, when necessary, antibiotics. As they increase the risk of respiratory infections, the presence of bronchiectasis may limit the use of biologic immunomodulatory therapies for RA (Esposito8, 2019).
+3.1.4 Pulmonary rheumatoid nodules 
+Rheumatoid nodules are usually present in one third of RA cases, mostly subcutaneous, in extensor and periarticular areas exposed to pressure. They can also occur in other areas, such as the larynx, heart valves, or lungs. Pulmonary rheumatoid nodules are rare, seen at a rate of 0.4% radiologically and 32% in biopsies in RA patients (Sargin65, 2015).
+Pulmonary rheumatoid nodules are often found in patients with long-standing RA, with subcutaneous nodules and high RP and/or anti-CCP titers. They are more common in males, especially in smokers (Alfahad66, 2015). They are located along the interlobular septa or in bilateral subpleural regions. They can be single or multiple, of varying sizes. They commonly have central fibrinoid necrosis with palisade mononuclear cells and associated vasculitis. When necrosis occurs, they progress to cavitation. Multiple cavity nodules can coalesce giving rise to rattle-shaped cavities (Sharma67, 2020). They are asymptomatic unless they cavitate and rupture, causing infection, pleural effusion, or bronchopleural fistula. Differential diagnosis with fungal infection, tuberculosis and malignancies is mandatory. They may regress spontaneously or with treatment for RA. Pulmonary nodules that have appeared after the use of drugs such as methotrexate and leflunomide have been described (Kanitz68, 2018)
+Caplan's syndrome was first described in 1953 in a cohort of coal miners with RA who had multiple pulmonary nodules. It was later expanded to include other inorganic dusts such as silica or asbestos. It is a rheumatoid pneumoconiosis in exposure to charcoal, silicasilica, or asbestos, associated with increased immune complexes and RF present. It occurs due to a sudden development of several peripheral lung nodules in people with pneumoconiosis. Patients may develop nodules in the absence of pre-existing joint or lung disease. Calcification is an uncommon finding (Alfahad66, 2015). 
+Nodules can be detected in individuals exposed more than 10 years before the onset of arthritis (Esposito8, 2019). Histopathology resembles rheumatoid nodules with an area of central necrosis surrounded by cellular infiltrate with granulocytes and mast cells. They can coalesce and cavitate for weeks to months. In the vast majority of cases, Caplan's syndrome nodules have a good prognosis. They complicate when they cavitate, become infected, or rupture in the pleural space.
+3.1.5 Vascular Bed Disease
+Patients with RA may develop pulmonary hypertension due to the extension of ILD. However, pulmonary hypertension can also occur secondary to vasculitis. It is estimated that the prevalence of isolated, asymptomatic pulmonary hypertension, evidenced by transthoracic echocardiography (ECHO), is around 21 to 28% in patients with RA (Esposito8, 2019). Patients with RA are at increased risk of thromboembolism, either deep vein thrombosis or pulmonary thromboembolism, attributable to the prothrombotic effects of chronic inflammation. 
+3.1.6 Drug toxicity
+When faced with a patient diagnosed with RA and new respiratory complaints, new HRCT findings, or nonspecific worsening of ILD, one should consider an adverse effect on any DMARD in use. The incidence is not well characterized, and it is often a diagnosis of exclusion.
+Drugs should theoretically protect the lungs because they reduce inflammatory cytokines, but some drugs are linked to the development of lung disease. On the other hand, a ILD that progresses during the duration of treatment may represent therapeutic failure rather than toxicity of the medication in use.
+3.1.6.1 Synthetic MMCDs
+3.1.6.1.1 Methotrexate
+MTX is the most prescribed MMCD in AR. It can rarely cause an adverse reaction at the pulmonary level, the incidence of which is difficult to determine due to the uncertainty of diagnosis and the lack of a gold standard, ranging from 0.86 to 6.9% (Shaw21, 2015). Its toxic effects have been seen in diseases other than RA, such as in psoriatic arthropathy.
+Acute or subacute hypersensitivity pneumonitis, regardless of dose, is the toxicity described. It usually occurs within the first year of treatment and does not progress to chronic ILD. It is characterized by peripheral and bronchoalveolar eosinophilia. Symptoms such as dyspnea and nonproductive cough may arise. HRCT has nonspecific findings with diffuse lung opacities or irregular consolidation. 
+Other causes, especially infection, should be ruled out. To this end, bronchioalveolar lavage and biopsy are recommended. The anatomopathological findings are malformed non-necrotizing granulomas and scattered eosinophils. The appropriate therapeutic approach is immediate discontinuation of the drug and, if necessary, association with corticosteroids. Recurrence rate occurs at 25%, so it is recommended not to reintroduce MTX 
+Some risk factors involved are genetic predisposition (HLA – A*31:01), advanced age, pre-existing ILD, previous treatment with other synthetic drugs, particularly gold salts, APD and SSZ, extra-articular manifestations, presence of diabetes and hypoalbuminemia.
+3.1.6.1.2 LeflunomidaLeflunomide 
+ LFN has been associated with rapid-onset hypersensitivity pneumonia or progression to pre-existing ILD (Kiely46, 2019). It is also related to the appearance of pulmonary nodules (Kanitz68, 2018). A systematic review and meta-analysis of eight RCTs found no association between LFN and increased risk of respiratory adverse effects in 4,579 patients with RA (Conway69, 2016).
+3.1.6.1.3 SulfassalazinaSulfasalazine 
+It can cause bronchiolitis obliterans and eosinophilic pneumonia, improving with discontinuation of the drug. The clinical presentation is of respiratory distress of recent onset with radiological images of interstitial infiltrates. The most common symptoms are cough and fever. Eosinophilia present in peripheral blood. Corticosteroids can be useful (Parry70, 2002).
+3.1.6.1.4 D Penicillamine
+Used in the past in rheumatology, it is related to bronchiolitis obliterans. Eosinophilic pneumonia has also been described similarly to SSZ (Scott71, 1981).
+3.1.6.1.5 Gold salts
+No longer used today. They could cause organizing pneumonia and bronchiolitis (Scott71, 1981).
+3.1.6.2 Immunosuppressants 
+3.1.6.2.1 Azathioprine 
+Its adverse effects are fever, arthralgias, bone marrow suppression, hepatitis, infection, and rarely pulmonary toxicity. AZA increases the risk of lymphoma and other malignancies. The onset of cough, dyspnea, and fever about 6 weeks after the introduction of AZA suggests the possibility of interstitial pneumonitis. It can exacerbate a previous ILD. It improves with discontinuation of the drug. AZA-induced pulmonary toxicity has been reported in kidney transplant patients, inflammatory bowel disease, membranous nephropathy, and autoimmune hepatitis (Ishida42, 2012).
+3.1.6.2.2 Tacrolimus 
+Respiratory adverse effects are rare but may occur. It can also cause exacerbation of ILD (Koike72, 2011).
+3.1.6.3 Biological DCMMs
+3.1.6.3.1 Anti-TNF
+In the scientific literature, there is still no consensus on the participation of anti-TNF agents in ILD. Several authors have published pulmonary toxicity with development or exacerbation of previous ILD (Koo48, 2015; Dixon49, 2010; Huang50, 2019). The British Society of Rheumatology and the Spanish Society of Rheumatology have warned about the use of these medications in patients with RA-ILD (Holroyd73, 2019; Created74, 2020). Others have refuted lung toxicity, showing that they can stabilize or improve ILD (Herrinton75, 2013; Vassallo76, 2002). A British prospective observational study of 367 patients with RA-ILD showed that mortality did not increase in anti-TNF use, but the proportion of deaths attributable to RA-ILD was higher in patients treated with anti-TNF (Dixon49, 2010).
+3.1.6.3.2 AbatacepteAbatacept
+A report in the literature of COPD exacerbation in the ASSURE study, an RCT, but it was not confirmed or seen in other studies (Weinblant77, 2006). Worsening ILD was observed in 8.4% of 131 patients in a cross-sectional study in which ABT was associated with MTX (Mochizuki78, 2019).
+A small clinical trial is underway to evaluate the safety of ABT. APRIL Study (NCT03084419).
+3.1.6.3.3 TocilizumabeTocilizumab
+Adverse pulmonary effects have already been reported with TCZ (Wendling79, 2013; Akiyama80, 2016). 
+Real-life post-marketing surveillance data have shown a good safety profile in a Japanese population with RA-ILD (Koike81, 2014).
+3.1.6.3.4 RituximabeRituximab
+A meta-analysis of biologic therapies in DDTC observed an increase in noninfectious parenchymal disease associated with RTX (Hadjinicolaou82, 2012). In a prospective study of thirty-three RA patients, RTX was associated with a drop in DLCO, suggesting pulmonary toxicity (Franzen83, 2016).
+3.1.6.4 JAK Inhibitors
+The relationship between JAK inhibitors and AR-ILD in real life has not yet been defined (Harigai84, 2019). Phase III trials of tofacitinib plus MTX have shown some cases of new-onset ILD (Fleischmann85, 2012). 
+A systematic review with meta-analysis noted a risk of lung toxicity from these specific target drugs, without distinguishing between them, and serious pulmonary adverse events were rare. There was no significant increase in the risk of pulmonary embolism, opportunistic infections, ILD, or lung cancer (Khoo86, 2020).
+ 
+
+4 METHODOLOGY 
+4.1 Study design
+This is a prospective, cross-sectional, analyticalanalytical, and descriptive study in which patients with RA diagnosed according to the 2010 classification criteria of ACR/EULAR (Aletaha87, 2010) assisted at the Rheumatology outpatient clinic of HUPES, in Salvador, Bahia, were included in September 2019, when clinical data collection began.  to September 2022.
+The sample was calculated according to the formula for calculating the sample size for a reliable estimate of the population proportion (p) given by: 
+n = zα/22∙p∙qE²
+where:
+n = Number of individuals in the sample;
+Zα/2 = Critical value that corresponds to the desired degree of confidence; 
+p = Population proportion of individuals belonging to the category we are interested in studying; 
+q = Proportion of the population of individuals who do not belong to the category we are interested in studying (q = 1 – p); 
+E = Margin of error or maximum error of estimate. It identifies the maximum difference between the sample proportion and the true population proportion (p).
+For unknown "p" and "q", we replace it with and p . Since these were also unknown, they were replaced by 0.5. For a 95% confidence level, the critical value is 1.96. Maximum estimation error of 5%, i.e. 0.05.q
+So n =  1,96 *0,250,0025= 196
+
+4.2 Population selection
+All patients underwent a structured interview at the time of the scheduled care visit, including baseline data such as age, gender, disease duration, DMARD use, corticosteroid use, and exposure to smoking (current smokers, former smokers, and nonsmokers). Current smokers were those who smoked more than 5 cigarettes per day in the previous 6 months and non-smokers smoked less than 20 packs of cigarettes during their lifetime (Salaffi34, 2019; Bilgici88, 2005). These data were collected close to the HRCT scan, i.e., as soon as the interviewees were interviewed, CT scans were scheduled. A complete physical examination was performed, with emphasis on the respiratory and musculoskeletal systems. Patients with other overlapping TCDD were excluded, except for those with secondary SS (sicca syndrome).
+Laboratory tests were performed at the Clinical and Toxicological Analysis Laboratory of the Faculty of Pharmacy of the Federal University of Bahia (UFBA):
+a) Erythrocyte sedimentation rate (ESR) by the Wintrobe method. Reference value (RV): men 0 – 15 mm/1st hour; women 0 – 20 mm/1st hour; we considered < 15 mm normal in men; < 20 mm in women; low positive ≥ 15 to < 40 mm in men; low positive ≥ 20 to < 40 mm in women; High positive value ≥ 40 mm. 
+b) C-reactive protein (CRP) by nephelometry. RV: normal < 6 mg/l; low positive > 6 and < 10 mg/l; High positive ≥ 10 mg/l. 
+c) Detection of RF autoantibodies by nephelometry. RV < 20 IU/ml (RF negative); ≥ 20 IU/ml and < 60 IU/ml positive (high RR); ≥ 60 IU/ml strongly elevated (RR in high titers).
+d) Investigation of anti-CCP autoantibodies by the ELISA method. VR < 20 U/ml (anti-CCP negative); ≥ 20 IU/ml and < 60 IU/ml positive (high anti-CCP); ≥ 60 IU/ml strongly elevated (anti-CCP in high titers).
+e) Investigation of antinuclear antibody (ANA) by indirect immunofluorescence method. positive titer ≥ 1/80, with nucleus, nucleolus, cytoplasmic, mitotic apparatusapparatus, and chromosomal metaphase plate patterns.
+f) Screening of anti-SSA antibodies by the ELISA method. negative RV < 15 U/ml; gray zone 15 – 25 U/ml; positive > 25 U/ml.
+g) Purified Protein Derivative (PPD) or tuberculin test: considered positive when ≥ 5 mm of induration; < 5 mm non-reactor; between 5 and 9 mm reactor; ≥ 10 mm strong reactor).
+The evaluation of disease activity was performed in the subsequent consultation with the return of laboratory tests, using the DAS 28 [(disease activity score), (Prevoo89, 1995)] and SDAI [(simple disease activity index), (Smolen90, 2003)] tools. We calculated the DAS 28 using ESR and CRP, considering the values in the literature: remission < 2.6; low disease activity ≥ 2.6 and ≤ 3.2; moderate disease activity > 3.2 and ≤ 5.1; high disease activity > 5.1. The SDAI was considered according to the values referenced in the literature: remission ≤ 3.3; low disease activity > 3.3 and ≤ 11; moderate disease activity > 11 and ≤ 26; high disease activity > 26.
+The patients were evaluated at the Pulmonology Service of the HUPES, where pulmonary function tests were performed in accordance with the requirements of the Brazilian Society of Pulmonology. HRCT scans were performed at the Radiology Service of HUPES. These tests are usually performed in the patients' care protocol when they are symptomatic from the respiratory point of view. In order to perform these tests in this study, we obtained the consent of the Radiology and Pulmonology services and authorization from the superintendent of the HUPES for all patients included in the study to undergo HRCT and pulmonary function tests. 
+All patients were examined by a 64-detector HRCT machine (GE Healthcare) in the supine and prone positions. Non-contrast HRCT was performed during the inspiratory and expiratory apnea phases. The interpretations of the images were made by visual and automated methods. Visual evaluation revealed the presence of septal lines, reticular lesions, fibrosis, traction bronchiectasis, ground-glass opacities, and/or honeycombing. The HRCT scans were given by an experienced radiologist in ILD, belonging to the Radiology Service of the HUPES, who was unaware of the clinical status and demographic data of the patients, and all the CT scans were reviewed by the same pulmonologist from the Pulmonology Service of the HUPES. The definition of IPR was based on these criteria.
+4.3 Statistical analysis
+Statistical analysis of the data was performed with the aid of the Statistical Package for Social Sciences version 25.0 (SPSS Inc., Chicago, IL, USA, 2018) for Windows. The results were presented by descriptive statistics through the absolute and relative distributions (N – %), as well as by measures of central tendency (mean or median) and dispersion (standard deviation or interquartile range). The symmetry of the continuous distributions was assessed by the distribution of the variable in a histogram. The inaccuracy of the main frequency outcomes was described by a 95% confidence interval. 
+To test the association between clinical, laboratory and/or tomographic characteristics with the outcomes of ILD, anti-CCP and RF present, and smoking, the variables were compared with the others using Pearson's chi-square test (if categorical) or Student's t-test (if numerical). For all statistical tests, p < 0.05 was considered significant.
+The analysis that involved the associative capacity of smoking was investigated using the Binary Multiple Logistic Regression technique – Smoking: absent (0) and present (1) –, Backward Conditional selection method. We chose to use this statistical technique, since we sought to test an initial exploratory model. As independent variables, sociodemographic, clinical, laboratory and tomographic characteristics were listed, which presented a minimum significance level less than or equal to 0.1 in the bivariate analysis, when compared with the outcomes of ILD, anti-CCP and RF present and smoking.
+To verify the quality of the fit of the final logistic regression model, the Nagelkerk and Hosmer-Lemeshow R2 estimators were considered. The probability of gradual entry of the variables into the model was 0.05 and for removal of 0.10.
+4.4 Ethical aspects
+The project developed for the research carried out in the doctorate was forwarded to the Research Ethics Committee (REC) with Human Beings of HUPES and started only after approval and consent from the institution. The researchers undertook to comply with the ethical aspects contained in resolution 466/12 of the National Council for Research Involving Human Beings of the Ministry of Health and the principles of good clinical practice of the Declaration of Helsinki.
+Initially, it  received the opinion of the CEP number 3.482.903, CAAE 15556719.7.0000.0049, dated August 2, 2019, however, with the delay in data collection due to the covid-19 pandemic, this opinion expired, and the research project was submitted again to the CEP and received the opinion number 5.423.292, CAAE 58731822.0.0000.0049, on May 23, 2022.
+
+5 RESULTS
+A total of 203 patients were included in the analysis (Table 1). One hundred and seventy-nine (88%, 95%CI, 83 – 91.9) were women, most of them brown (64%; 95%CI, 57.2 – 70.3) and non-smokers (74.9%; 95%CI 68.4 – 80.3) with a mean age of 57.14 years (± 11.65). The mean duration of illness was 13.54 (± 9.36) years after diagnosis and a median of 8 (interquartile range, 2 – 12) years of follow-up at the service. Sixty-one (29.6%; 95%CI, 23.7 – 36.1) patients had no comorbidities while sixty-three (31%; 95%CI, 23.7 – 37.7) had more than one comorbidity, with a preponderance of hypertension and diabetes mellitus. 
+Regarding the clinical profile, in more than half of the sample, one hundred and nine (53.7%; 95%CI, 46.8 – 60.4) patients had joint symptoms while thirty-six (17.7%; 95%CI, 13.0 – 23.5) were asymptomatic, twenty-two (10.8%; 95%CI, 7.2 – 15.8) with respiratory symptoms in the absence of joint symptoms and thirty-six (17.7%; 95%CI, 13.0 – 23.5) patients had joint symptoms concomitant with respiratory symptoms. Cough, dyspnea, and chest pain were the respiratory symptoms presented, with cough and dyspnea being the most frequent. Regarding dyspnea, according to the MRC (Medical Research Council) scale, all patients complaining of dyspnea were grade 1 (0 = dyspnea with intense exercise; 1 = dyspnea when climbing stairs/slopes or walking hurriedly on the flat; 2 = dyspnea in the flat step itself or difficulty following the pace of another person of the same age; 3 = dyspnea on the plane in less than 100 meters or after a few minutes of walking; 4 = too dyspneic to leave the house or to dress/undress).
+Regarding the treatment of the disease, we divided the drugs into corticosteroids, synthetic DMARDs, and biological DMARDs. One hundred and thirteen (55.7%; 95% CI, 48.5 – 62.6) patients had used corticosteroids in the past, all orally (prednisone or prednisolone), but were no longer using them. Eighty-one patients (40%; CI95%, 33.1 - 62.6) were using, all orally, either prednisone or prednisolone, with a minimum dose of 2.5 mg and a maximum dose of 20 mg, with a mean of 6.20 mg ± 3.4. Nine (4%; 95%CI, 2.05 – 8.25) patients had never used corticosteroids. Of the patients with ILD, four (1.97%; 95% CI, 0.54 – 5.0) patients with UIP were using prednisone at doses of 5 to 10 mg, five (2.46%; 95% CI, 0.8 – 5.6) patients with NSIP also in use, one with a dose of 20 mg, one with 2.5 mg and three with 5 mg, five (2.46%; 95% CI, 0.8 – 5.6) patients with incipient ILD, 5 mg dose. Fifty-four (26.6%; 95%CI, 20.6 – 33.2) patients were using MTX, thirty-six (17.7%; 95%CI, 13.0 – 23.5) of LFN and 90 (44.3%; 95%CI, 37.4 – 51.5) used MTX associated with LFN. Thirteen (6.4%; 95%CI, 3.45 – 10.7) patients used synthetics in the past, eight (3.9%; CI95% 1.7 – 7.6) never used it. Eighty-eight (43.3%; 95%CI, 36.4 – 50.5) patients did not use or used in the past; fifty-two (25.6%; 95%CI, 19.7 – 3.22) patients used anti-TNF, thirty-one (15.3%; 95%CI, 10.6 – 20.9) with ABT, ten (4.9%; 95%CI, 2.4 – 8.9) with anti-IL6 (TCZ), three (1.5%; 95%CI, 0.31 – 4.26) patients used anti-CD20 (RTX) and two (1.0%; 95%CI, 0.12 – 3.5) patients had used biologics in the past. JAK inhibitors were included in this group, with seventeen (8.4%; 95%CI, 4.9 – 14.4) patients. Data presented in Table 1.
+Table 1 – Epidemiological and clinical characteristics of patients with Rheumatoid Arthritis evaluated at a specialized outpatient clinic in Salvador in 2022 (n = 203)
+Variable analyzed
+            Values
+Age in years, average
+57.1 (± 11.6) *
+Female
+179 (88,2%)
+Race
+
+White
+12 (5,9%)
+Brown
+130 (64,0%)
+Black
+61 (30,0%)
+Smoker
+51 (25,1%)
+Comorbidities
+
+Systemic Arterial Hypertension
+27 (13,3%)
+Diabetes Mellitus 
+6 (3,0%)
+Heart
+3 (1,5%)
+Cancer
+1 (0,5%)
+Sicca syndrome
+1 (0,5%)
+Osteoporosis
+8 (3,9%)
+Obesity
+2 (0,98%)
+Asma
+6 (3,0%)
+Association of comorbidities
+63 (31,0%)
+Other
+26 (12,8%)
+She had no comorbidities 
+61 (29,6%)
+Time from RA diagnosis in years, mean
+13.5 (± 9.3) *
+Follow-up time in years, median
+8 (2 – 12) **
+Symptoms
+
+Joint symptoms
+109 (53,7%)
+Respiratory symptoms
+22 (10,8%)
+Joint and respiratory symptoms
+36 (17,7%)
+No symptoms
+36 (17,7%)
+Synthetic MMCDs
+
+Methotrexate
+54 (26,6%)
+LeflunomidaLeflunomide
+36 (17,7%)
+Methotrexate and LeflunomidaLeflunomide
+90 (44,3%)
+Other associations
+1 (0,5%)
+AzathioprinaAzathioprine
+1 (0,5%)
+Have used it in the past
+13 (6,4%)
+Never used
+8 (3,9%)
+Biological DCMM
+
+Anti-TNF
+52 (25,6%)
+Anti-CD20
+3 (1,5%)
+Anti-IL6
+10 (4,9%)
+AbatacepteAbatacept
+31 (15,3%)
+JAK Kinase Inhibitor
+17 (8,4%)
+Have used it in the past
+2 (1,0%)
+Doesn't use it and never has used it
+88 (43,3%)
+Use of corticosteroids
+
+In use (average dose 6.2mg ± 3.4)
+81 (39,9%)
+Used in the past
+113 (55,7%)
+Never used
+9 (4,4%)
+Previous Use of Anti-TNF
+94 (46,3%)
+Death (people who died after the 
+research data collection)
+12 (5,9%)
+*Standard deviation in parentheses. ** Interquartile range in parentheses.
+RA: Rheumatoid Arthritis; MMCD: Disease-modifying drugs; IL-6: Interleukin 6; JAK: Janus kinase; TNF: Tumor Necrosis Factor. 
+Source: authors' own data.
+According to the evaluation of disease activity based on the DAS-28 by the serum ESR level, about 35.1% (95%CI, 28.7 – 41.7) of the patients had moderate disease activity (Figure 1 and Table 2).
+
+Figure 1 – Disease activity according to The Disease Activity Score-28 (DAS-28 ) for Rheumatoid Arthritis calculated by the count of swollen and tender joints and the level of ESR in patients with rheumatoid arthritis evaluated in a specialized outpatient clinic in 2022. 
+According to the evaluation of disease activity based on the DAS-28 calculated by the serum CRP level, approximately 47.5% (95%CI, 40.7 – 54.3) of the patients were in remission (Table 2 and Figure 2).
+Figure 2 – Disease activity according to The Disease Activity Score-28 (DAS-28 ) for Rheumatoid Arthritis calculated by the count of swollen and tender joints and the serum CRP level in patients with rheumatoid arthritis evaluated in a specialized outpatient clinic in 2022
+
+Figure 2 – Disease activity according to The Disease Activity Score-28 (DAS-28 ) for Rheumatoid Arthritis calculated by counting swollen and tender joints and serum CRP level in patients with rheumatoid arthritis evaluated at a specialized outpatient clinic in 2022.
+According to the assessment of disease activity based on the SDAI, most patients had moderate disease activity, representing 41.1% (95%CI, 34.5-47.9) of the sample (Table 2 and Figure 3).
+
+Figure 3 – Disease activity according to the Simplified Disease Activity Index (SDAI) in rheumatoid arthritis patients evaluated at a specialized outpatient clinic in 2022
+
+Laboratory tests were performed in two hundred (98.5%) patients. Regarding CRP levels: median 4.6 mg/l (interquartile range 2.1 – 9.1), test altered in eighty-two of them (41%; 95%CI, 34.1 – 48.1). ESR, median 26 mm (interquartile range, 16 – 41), changed by one hundred and fifty-six (78%; 95%CI, 71.6-83.5) patients. RF was absent in one hundred and five patients (52.5%; 95%CI, 45.3-59.6). 
+Of the ninety-five patients (47.5%; 95%CI, 40.4 – 54.6) with positive RF, seventy-three (36.5%; CI95%, 29.8-43.5) had RR in high titers. Positive titers ranged from 20 to 2080 IU/ml. Anti-CCP absent in one hundred and three (51.5%; 95%CI, 44.3 – 58.6) patients. Of the ninety-seven (48.5%; 95%CI, 41.4 – 55.6) anti-CCP positive patients, seventy-four (37%; 95%CI, 30.3 – 44.1) had anti-CCP in high titers. Positive titers ranged from 21 to 1493 IU/ml. There were seventy-one patients (35.5%; 95%CI, 28.9 – 42.6) with RF and anti-CCP positive concomitantly, and in forty-six (23%; 95%CI, 17.4 – 29.5) there were high RF and anti-CCP titers, ten (5%; 95%CI, 2.4 – 9.0) with only RF in high titers, eleven (5.5%; 95% CI, 2.8 – 9.6) with only anti-CCP in high titers and four (2%, 95% CI, 0.5 – 5.0) with RF and anti-CCP positive without being high titers. Thirty (15%; 95%CI, 10.3 – 20.7) patients had ANA with altered results, with the most frequent finding of the homogeneous nuclear pattern, seen in twenty (10%; 95%CI, 6.2 – 15.0) patients and punctate nuclear pattern in ten (5%; 95% CI, 2.4 – 9.0) patients. 
+Title 1/160 was seen in seventeen (8.4%; 95% CI, 4.9 – 13) patients, ten of whom had a homogeneous pattern (4.9%; 95%CI, 2.4 – 9.0) and seven dotted (3.5%; 95%CI, 1.4 – 7); Titers 1/320 were seen in nine cases (4.5%; 95% CI, 2 – 8.4) patients, seven of whom had a homogeneous pattern (3.5%; 95%CI, 1.4 – 7) and two dotted (1%; 95% CI, 0.12 – 3.6); titer 1/640 in four patients (2%; 95% CI, 0.5 – 5%), three with homogeneous pattern (1.5%; 95%CI, 0.3 – 4.3) and one dotted (0.5%; CI95, 0.01 – 2.7). Only eleven (5.5%; 95%CI, 2.8 – 9.6) patients were anti-SSA positive, and in one (0.5%; 95% CI, 0.01 – 2.7) the titer was high.
+
+Table 2 – Laboratory profile and disease activity of rheumatoid arthritis patients evaluated at a specialized outpatient clinic in 2022 (n = 200)
+Variable analyzed
+                            Values
+DAS-28 PCR
+
+Remission
+96 (47,5%)
+Low disease activity
+31 (15,3%)
+Moderate disease activity
+65 (35,2%)
+High disease activity
+10 (4,9%)
+DAS-28 VHS
+
+Remission
+62 (30,7%)
+Low disease activity
+34 (16,8%)
+Moderate disease activity
+71 (35,1%)
+High disease activity
+35 (17,3%)
+SDAI
+
+Remission
+29 (14,4%)
+Low disease activity
+52 (25,7%)
+Moderate disease activity
+83 (41,1%)
+High disease activity
+38 (18,8%)
+PCR
+
+Normal
+118 (59%)
+Low Positive
+38 (18,8%)
+High Positive
+44 (21,8%)
+VHS
+
+Normal
+44 (22%)
+Low Positive
+102 (51%)
+High Positive
+54 (27%)
+FR 
+
+Normal
+105 (52,5%)
+Low Positive
+22 (10,5%)
+High Positive
+73 (36,5%)
+Anti-CCP 
+
+Normal
+103 (51,5%)
+Low Positive
+23 (11,5%)
+High Positive
+74 (37,0%)
+Anti-SSA positive 
+11 (5,5%)
+FAN Positive 
+30 (15%)
+Homogeneous nuclear pattern 
+20 (10%)
+Dotted nuclear pattern 
+10 (5%)
+PPD (n = 151)
+
+Non-reactor
+113/151 (74,8%)
+5 – 9 mm
+22/151 (14,5)
+> 9 mm
+16/151 (10,6%)
+Didn't take the exam
+52/203 (25,6%)
+Anti-CCP: antibodies against cyclic citrullinated peptide; Anti-SSA: antibodies against Ro antigen; DAS-28 CRP: Disease Activity Score-28 for rheumatoid arthritis calculated by serum CRP level; DAS-28 ESR: Disease Activity Score-28 for rheumatoid arthritis calculated by ESR level; ANA: antinuclear factor; RR: rheumatoid factor; PCR: polymerase chain reaction; PPD: Tuberculin Skin Test; SDAI: Simplified Disease Activity Index; ESR: erythrocyte sedimentation rate.
+Source: data collected by the author.
+Of the 203 patients in the sample, only 199 patients were able to undergo HRCT scans. Of these 199, 89.6% (95%CI, 86.7 – 94.9) had some type of abnormality in the examination. The most common abnormalities were nodules, with 78.4% (95%CI, 72–83.9) of the cases,  followed by opacity in the lung parenchyma, with 15.5% (95%CI, 10.8–21.4) of the cases. More than half of the cases were grouped in other findings, due to patients who had overlapping HRCT images with various opacities with nodules and/or pleural or airway involvement, in addition to images such as atelectasis, parenchymal bands, architectural distortion, budding tree, honeycombing, air trapping, and air cysts (Table 3, Figure 4).
+Table 3 – Patterns of change in HRCT in rheumatoid arthritis patients evaluated at a specialized outpatient clinic in 2022 (n = 199)
+Variable analyzed
+            Values
+HRCT TCAR (n=199)
+
+Normal
+17 (8,4%)
+Changed
+182 (89,6%)
+It didn't
+4 (2,0%)
+HRCT findings
+
+Normal
+18 (9%)
+Ground-glass opacities
+13 (6,5%)
+Nodular opacities
+7 (3,5%)
+Reticular opacities
+4 (2,0%)
+Associated opacities
+7 (3,5%)
+Isolated nodules
+37 (18,6%)
+Other findings
+Tree in bud
+FaveolamentoHoneycombing
+Architectural distortion
+Aerial cysts
+Parenchymal bands
+Air trapping
+113 (56,8%)
+6 (3,0%)
+7 (3,5%)
+2 (1%)
+20 (10,05%)
+17 (8,5%)
+6 (3,0%)
+HRCT: High Resolution Computed Tomography. 
+Source: data collected by the author.
+
+
+
+
+Figure 4 – Patterns of change in HRCT in patients with rheumatoid arthritis evaluated at a specialized outpatient clinic in 2022 (n = 199).
+
+
+The diameter of the nodules with the highest prevalence was less than five millimeters, comprising 48.2% (95%CI, 41.1 – 55.4). Calcified nodules were the most commonly foundmost found, accounting for 37.2% (95%CI, 30.5 – 44.3) of the sample of patients with pulmonary nodules on HRCT scans. Only three patients were found to have cavitated necrobiotic nodules compatible with rheumatoid pulmonary nodules. Of these patients, in two, HRCT scans showed an image of a tree in bud, and tuberculosis was ruled out. The other had ILD with fibrosis (NSIP), which was compatible with pulmonary involvement due to RA. Most of the other nodules were described as residual nodules, residual granulomas, and residual lymph nodes, some of which were compatible with latent TB bacillus infection (LTBI). 
+We performed the tuberculin skin test using the Purified Protein Derivative (PPD) to evaluate the presence of LTBI in 151 patients, even though it was not the objective of the study, and we found that 113 (74.8%; 95%CI, 67.1 – 81.5) of the patients did not have LTBI (Table 2).  In patients with nodules, PPD was positive in 19.9%, while in patients without nodules, PPD was positive in 16.3%. Of the patients with positive PPD, twenty-three (17.9%; 95%CI, 12.1 – 25) were treated with isoniazid (INH), two (1.32%; 95%CI, 0.16 – 4.7) with rifampicin (RFP), one (0.7%; 95%CI, 0.02 – 3.6) progressed to active tuberculosis (TB) and eleven (7.3%; 95%CI, 3.7 – 12.7) had already been treated for TB (Table 4). 
+Table 4 – Pulmonary nodules in rheumatoid arthritis patients evaluated at a specialized outpatient clinic in 2022 (n = 199)
+Variable analyzed
+        Values
+Pulmonary nodules
+
+< 5 mm 
+96 (48,2%)
+5 – 10 mm
+56 (28,1%)
+1.1 – 2.0 centimeters
+2 (1,0%)
+2.1 – 5.9 centimeters
+> 6 centimeters
+2 (1,0%)
+0 (0%)
+Absent
+43 (21,6%)
+Nodular consistency
+
+Calcified
+74 (37,2%)
+Non-calcified
+Both
+56 (28,1%)
+26 (13,1%)
+Absent
+Latent tuberculosis bacillus infection (test performed in 151 patients)
+Treated with INH
+Dealt with RFP
+Progressed to active TB
+Past of active TB
+Non-reactor
+Didn't perform 
+42 (21,1%)
+
+
+27 (17,9%)
+2 (1,32%)
+1 (0,7%)
+11 (7,34%)
+113 (74,8%)
+52 (25,6)
+
+
+
+
+
+
+
+
+
+
+
+
+  INH:isoniazidINH: isoniazid; RFP: rifampicin; TB: tuberculosis
+Source: data collected by the author.
+Regarding the interstitial pulmonary findings, seen on HRCT scans, 17% (95%CI, 7.5 – 16.8) had ILD, and UIP (4%; 95%CI, 1.7 – 7.8) was slightly lower than NSIP (5.5%; 95%CI, 2.8 – 9.7) and some patients had HRCT abnormalities with images that caused overlap between ILD subtypes, therefore, they were classified as undefined/incipient subtype (7.5%; 95%CI, 4.3 – 12.1). Data in Table 5. Of the total number of patients with ILD, 23.5% (95%CI, 10.7 – 41.1) were UIP, 32.3% (95%CI, 17.4 – 50.5) were NSIP, and 44.1% (95%CI, 27.1 – 62.1) were  incipient. Only 6.5% (95%CI, 3.5 – 10.9) of the patients had findings indicative of pulmonary fibrosis. Of these, the most frequent alterations among them were honeycombing, bronchiectasis, and traction bronchyectasisbronchiectasis and reticular pattern. Some patients presented concomitantly with these alterations. Regarding smoking, of the thirty-four (17.1%; 95%CI, 12.1 – 23) patients with ILD, ten (5%; CI95%, 2.4 – 9%) were smokers and twenty-four (12%; 95%CI, 7.7 – 17) non-smokers.
+Of the thirty-four patients with ILD, pulmonary function tests were performed in twenty-six of them and observed that restrictive disorders were present in nine patients (4.5%; 95% CI, 2.0 – 8.4), obstructive disorder in only one patient (0.5%; 95% CI, 0.01 – 2.7) and mixed disorder in three patients (1.5%; 95% CI, 0.3 – 4.3). Of the patients with UIP, four did not undergo the test, two had moderate restrictive lung disease, one was normal and one was inconclusive. Of the patients with NSIP, three did not undergo pulmonary function tests, three had restrictive disorders, two had mild and one had severe disorders, one patient had moderate obstructive disorder, two patients had normal tests, and two had inconclusive tests. Of the patients described as incipient/undefined ILD, one did not perform it, four had mild restrictive disorders, three had mixed disorders, three had high resistance results, and four were normal. 
+Table 5 – HRCT interstitial lung findings in rheumatoid arthritis patients evaluated at a specialized outpatient clinic in 2022 (n = 199)
+Variable analyzed
+Values
+Pulmonary fibrosis
+
+FaveolamentoHoneycombing 
+Bronchiectasis/Traction bronchyoectasisbronchiectasis           
+Reticular pattern                                                                                                            
+
+13 (6,5%)
+
+6(3%)
+9(4,5%)
+  8(4%)
+
+Interstitial Lung Disease                                            
+
+34(17%)
+Pneumonia intersticial usualUsual interstitial pneumonia 
+8 (4%)
+Non-specific interstitial pneumonia 
+Indefinite / Incipient
+11 (5,5%)
+15 (7,5%)
+Absent
+165 (83%)
+
+
+
+
+Source: data collected by the author.
+Table 6 – Pulmonary function tests performed in patients with ILD in a specialized outpatient clinic (n = 26)
+Variable analyzed
+Values
+Pulmonary function tests
+
+Restrictive disorder
+Obstructive disorder
+Mixed disorder
+Inconclusive
+Normal
+High resistance
+
+26 (13%)
+
+9 (4,5%)
+1 (0,5%)
+ 3 (1,5%)
+ 3 (1,5%)
+ 7 (3,5%)
+3 (1,5%)
+
+
+
+Source: data collected by the author.
+Table 7 – Pulmonary function tests performed in patients with ILD in a specialized outpatient clinic (n = 26)
+Pulmonary function tests
+MORE (4)
+PINE (8)
+Incipient (14)
+Restrictive disorder
+2 (1%)
+3 (1,5%)
+           4 (2%)
+Obstructive disorder
+
+1 (0,5%)
+
+Mixed disorder
+
+
+3 (1,5%)
+Inconclusive
+1 (0,5%)
+2 (1%)
+
+Normal
+1 (0,5%)
+2 (1%)
+            4 (2%)
+High resistance
+
+
+3 (1,5%)
+UIP: usual interstitial pneumonia; PINE: nonspecific interstitial pneumonia
+Source: data collected by the author.
+
+Table 8 – HRCT interstitial pulmonary findings in rheumatoid arthritis patients evaluated at a specialized outpatient clinic in 2022 (n = 76)
+DPI
+CVF
+DLCO
+TWEET
+66.7 ± 12
+60.25 ± 13.5
+PINE
+79.7 ± 24.1
+68 ± 19.7
+Incipient
+83.3 ± 15.3
+89.9 ± 17.9
+Normal
+84.25 ± 20.4
+89.8 ± 19.9
+ILD: interstitial lung disease; UIP: usual interstitial pneumonia; NSIP: nonspecific interstitial pneumonia; FVC: forced vital capacity; DLCO: Carbon monoxide diffusion capacity.
+Source: data collected by the author.
+
+Fifty patients underwent pulmonary function tests, with FVC with a mean of 81.9 (±  19.8) and DLCO with a mean of 84.9 (± 21.4).  
+Regarding pleural involvement, 13.1% of the patients (95%CI, 8.7-18.6) had only images of pleural thickening without other alterations, including pleural effusion.
+Lower airway involvement on in HRCT was seen in 26% (95%CI, 20.2-32.8) of the patients, but small airway involvement was found in 18.6% (95%CI, 13.4-24.7). When grouped into associates, it was the patients who presented images of bronchiectasis plus bronchioloectasis bronchiectasis on HRCT scans. Of the fifty-two patients (26.1%; 95%CI, 20.2 – 32.8) with airway involvement by HRCT, only fourteen underwent pulmonary function tests, eight (4%; 95%CI, 1.7 – 7.8) with alterations, four (2%; 95%CI, 0.5 – 5.0) with restrictive disorders, one (0.5%; 95% CI, 0.3 – 4.3) with obstructive disorder and three (1.5%; 95% CI, 0.01 – 2.7) with mixed disorders. Three pulmonary function tests were normal and three were inconclusive.
+In this series of cases, emphysema was present in 10.5% (95%CI, 6.6 – 15.7), but in only three patients with ILD, one with UIP with centrilobular emphysema, one with NSIP with centrilobular emphysemacentriseptal emphysema, and another with undefined ILD with paraseptal emphysema. Only one patient with pulmonary fibrosis had emphysema. Regarding smoking, seven patients with centrilobular emphysema (3.5%; 95%CI, 1.4 – 7.1) were non-smokers, one (0.5%; 95%CI, 0.01 – 2.7) were passive smokers and three (1.5%; 95%CI, 0.3 – 4.3) were smokers. Of the patients with paraseptal emphysema, four (2%; 95%CI, 0.12 – 3.6%) were nonsmokers, and three (1.5%; 95%CI, 0.3 – 4.3) smokers. All three (1.5%; 95%CI, 0.3 – 4.3) patients with associated emphysema were smokers. None of the patients who described emphysema on HRCT scans had a restrictive disorder according to pulmonary function tests. Only one patient with moderate obstructive disorder had emphysema on HRCT scans. 
+Emphysema was found by HRCT scans in twenty-one patients. With pulmonary function tests, only nine patients with restrictive disorder and three with mixed disorder were seen. However, of the 21 patients in whom emphysema was seen by HRCT, nineteen did not undergo pulmonary function tests.
+Table 9 – Pulmonary findings in patients with rheumatoid arthritis evaluated at a specialized outpatient clinic in 2022 (n = 199)
+Variable analyzed
+Values
+Pleural involvement
+26 (13,1%)
+Lower airway involvement
+
+BronchiectasisBronquiectasia 
+8 (4,0%)
+BronchioloectasiaBronchiolectasis 
+BronchioliteBronchiolitis
+Air trapping
+Bronchial thickening
+Associated with
+11 (5,5%)
+8 (4,0%)
+4 (2,0%)
+11 (5,5%)
+10 (5,0%)
+Absent
+Emphysema
+Centrilobular
+ParasseptalParaseptal
+Associate
+Absent
+147 (73,9%)
+
+11 (5,5%)
+7 (3,5%)
+3 (1,5%)
+178 (89,4%)
+
+
+
+
+
+
+
+
+
+
+Source: data collected by the author.
+Table 10 – Pulmonary findings in patients with rheumatoid arthritis evaluated at a specialized outpatient clinic in 2022 (n = 26)
+Variable analyzed
+Values
+Pulmonary function test
+
+   Not carried out
+177 (87,2%)
+   Normal
+   Inconclusive (inappropriate curves)
+   High resistance only
+   Mild restrictive lung disease
+   Moderate restrictive ventilatory disorder
+7 (3,4%)
+3 (1,5%)
+3 (1,5%)
+                              6 (3,0%)
+  2 (1,0%)
+   Marked restrictive lung disease                      
+  Moderate obstructive lung disease
+   Mixed disorder                                                    
+  1 (0,5%)
+  1 (0,5%)
+  3 (1,5%)
+
+
+
+
+
+Source: data collected by the author.
+The following results will be about associations.
+Patients using or having used biological DMARDs, current use of corticosteroids, elevated inflammatory markers (CRP and ESR), elevated markers of disease activity, high-titers of RF, high-titers anti-CCP, and smoking were proportionally more frequent among patients with interstitial lung disease (Table 11). 
+Table 11 – Comparison of the characteristics of patients with rheumatoid arthritis with interstitial lung disease versus without interstitial lung disease (n=203).
+Variable analyzed
+Interstitial lung disease
+P-value
+Yes (34)
+No (165)
+Female
+27 (79,4%)
+148 (89,7%)
+0,142
+Use of synthetic DMARDs
+31 (60,9%)
+160 (72,2%)
+0,139
+Use of Biological DMARDs
+25 (73,5%)
+90 (54,5%)
+0,065
+Corticosteroids
+
+
+0,931
+You are using 
+14 (41,2%)
+65 (39,4%)
+
+Used in the past 
+19 (55,9%)
+93 (56,4%)
+
+Never used
+1 (2,9%)
+7 (4,2%)
+
+Previous Use Anti-TNF
+19 (55,9%)
+75 (45,5%)
+0,346
+PCR high titers 
+15 (44,1%)
+66 (40,0%)
+0,703
+VHS High Titles
+25 (73,5%)
+131 (79,4%)
+0,494
+DAS-28 PCR, Medium
+2.8 (± 1.2) *
+ 2.8 (± 1.3) *
+0,895
+DAS-28 VHS, Average
+3.6 (± 1.4) *
+3.5 (± 1.4) *
+0,787
+SDAI, average
+16.2 (± 11.7) *
+15.9 (± 11.3) *
+0,883
+Elevated Rheumatoid Factor
+25 (73,5%)
+69 (41,8%)
+0,001
+Elevated Anti-CCP
+20 (58,8%)
+          77 (46,7%)
+0,258
+Smoker present
+10 (29,4%)
+         39 (23,6%)
+         0,514
+Associated comorbidities
+23 (67,6%)
+        118 (71,5%)
+         0,681
+Joint and/or respiratory symptoms
+33 (97,1%)
+              131 (79,4%)
+         0,012
+*Standard deviation in parentheses.
+Anti-CCP: antibodies against cyclic citrullinated peptide; Anti-TNF: Anti-tumor necrosis factor antibody; DAS-28 CRP: Disease Activity Score-28 for rheumatoid arthritis calculated by serum CRP level; DAS-28 ESR: Disease Activity Score-28 for rheumatoid arthritis calculated by serum ESR level; MMCD: Disease-modifying drugs; PCR: polymerase chain reaction; SDAI: Simplified Disease Activity Index; ESR: erythrocyte sedimentation rate.
+Source: data collected by the author.	
+Binary logistic regression was performed to verify whether having high RR and having symptoms were predictors of ILD. [X² (1) = 5.287; p < 0.021, R² Negelkerke = 0.051].
+high RR (OR = 8.19; 95%CI, 1.06 – 62.91) and symptoms (OR = 3.77; 95%CI, 1.64 – 8.66) were factors associated with the presence of ILD (Table 12).
+         Table 12 – Multivariate binary logistic regression for ILD (n=203).
+  Variable analyzed
+         OR (95% CI)
+       PvalueP-Value
+
+Pulmonary and/or joint symptoms present
+        3,77 (1,64-8,66)
+         0,002
+
+Elevated FR
+      
+      8,19 (1,06-62,91)
+         0,043
+
+
+
+
+                                     
+                                                                                                                                                                                                 
+
+           Source: data collected by the author.
+   
+Elevated ESR was statistically negatively associated (p = 0.025) with pleural involvement. It was observed that 61.5% of the patients with pleural involvement had elevated ESR, while 80.9% of the patients without pleural involvement had elevated ESR (Table 13). 
+
+Table 13 – Comparison of the characteristics of patients with Rheumatoid Arthritis with pleural  involvement versus without pleural involvement (n=203).
+Variable analyzed
+Pleural Involvement
+P-value
+Yes (26)
+No (173)
+Female
+19 (95,0%)
+126 (86,9%)
+0,475
+Use of synthetic DMARDs
+18 (69,2%)
+123 (71,1%)
+0,845
+Use of Biological DMARDs
+16 (61,5%)
+99 (57,2%)
+0,678
+Corticosteroids
+
+
+
+Never used
+1 (3,8%)
+7 (4,0%)                    
+         0,594
+Previous Use Anti-TNF
+14 (53,8%)
+80 (46,2%)
+0,469
+Elevated PCR 
+10 (38,5%)
+71 (41,0%)
+0,803
+High ESR
+16 (61,5%)
+140 (80,9%)
+0,025
+DAS-28 PCR, Medium
+2.5 (± 1.2) *
+2.8 (± 1.3) *
+0,434
+DAS-28 VHS, Average
+2.8 (± 1.4) *
+3.5 (± 1.4) *
+0,109
+SDAI, average
+11.8 (± 8.6) *
+16.2 (± 11.4) *
+0,215
+Elevated Rheumatoid Factor
+11 (42,3%)
+83 (48,0%)
+0,589
+Elevated Anti-CCP
+15 (57,7%)
+82 (47,4%)
+0,328
+Smoker
+6 (23,1%)
+43 (24,9%)
+0,844
+Associated comorbidities
+20 (76,9%)
+121 (69,9%)
+0,465
+*Standard deviation in parentheses.
+Anti-CCP: antibodies against cyclic citrullinated peptide; Anti-TNF: Anti-Tumor Necrosis Factor Antibody; DAS-28 CRP: Disease Activity Score-28 for rheumatoid arthritis calculated by serum CRP level; DAS-28 ESR: Disease Activity Score-28 for rheumatoid arthritis calculated by serum ESR level; MMCD: Disease-modifying drugs; PCR: polymerase chain reaction; SDAI: Simplified Disease Activity Index; ESR: erythrocyte sedimentation rate.
+Source: data collected by the author.	
+There was statistical significance between lower airway involvement in males and the presence of RP (Table 14).
+Table 14 – Comparison of the characteristics of patients with rheumatoid arthritis with airway involvement versus without airway involvement (n=203).
+Variable analyzed
+Airway Involvement
+P-value
+Yes (52)
+No (147)
+Female
+36 (76,6%)
+109 (92,4%)
+0,008
+Use of Synthetic MMCDs
+36 (69,2%)
+105 (71,4%)
+0,764
+Use of Biologic MMCDs
+30 (57,7%)
+85 (57,8%)
+0,987
+Corticosteroids
+
+
+0,992
+You are using 
+21 (40,4%)
+58 (39,5%)
+
+Used in the past 
+29 (55,8%)
+83 (56,5%)
+
+Never used
+2 (3,8%)
+6 (4,1%)
+
+Previous Use Anti-TNF
+23 (44,2%)
+71 (48,3%)
+0,613
+High positive PCR 
+25 (48,1%)
+56 (38,1%)
+0,208
+High positive HSV
+39 (75,0%)
+117 (79,6%)
+0,489
+DAS-28 PCR, Medium
+2.9 (± 1.3) *
+2.7 (± 1.3) *
+0,612
+DAS-28 VHS, Average
+3.5 (± 1.3) *
+3.5 (± 1.4) *
+0,907
+SDAI, average
+15.3 (± 11.2) *
+16.1 (± 11.4) *
+0,643
+Rheumatoid Factor High Titers
+32 (61,5%)
+62 (42,2%)
+0,016
+Anti-CCP High Titers
+31 (59,6%)
+66 (44,9%)
+0,068
+Smoker
+16 (30,8%)
+33 (22,4%)
+0,231
+Associated comorbidities
+42 (80,8%)
+99 (67,3%)
+0,067
+*Standard deviation in parentheses.
+Anti-CCP: antibodies against cyclic citrullinated peptide; Anti-TNF: Anti-Tumor Necrosis Factor Antibody; DAS-28 CRP: Disease Activity Score-28 for rheumatoid arthritis calculated by serum CRP level; DAS-28 ESR: Disease Activity Score-28 for rheumatoid arthritis calculated by serum ESR level; MMCD: Disease-modifying drugs; PCR: polymerase chain reaction; SDAI: Simplified Disease Activity Index; ESR: erythrocyte sedimentation rate.
+Source: data collected by the author.	
+
+Binary logistic regression was performed to verify whether being male and having elevated RR were predictors of airway involvement. The model containing these variables was significant [X² (2) = 12.154; p < 0.002, R² Negelkerke = 0.087].
+In the multivariate analysis, being male (OR = 2.87; 95%CI, 1.12-7.32) and having high RR (OR = 2.87; 95%CI, 1.12-7.32) were factors associated with the presence of airway disease (Table 15).
+Table 15 – Multivariate binary logistic regression for airway involvement (n = 203)
+Variable analyzed
+Model 1 
+OR (95% CI)
+P-value
+Model 1
+Male
+3,18 (1,31-7,74)
+0,011
+Elevated FR
+2,09 (1,08-4,05)
+0,028
+        Source: data collected by the author.	
+Smoking and male gender were statistically significantly associated with the presence of emphysema in the bivariate analysis (Table 16).
+Table 16 – Comparison of the characteristics of patients with Rheumatoid Arthritis with emphysema versus without emphysema (n=203).
+Variable analyzed
+Emphysema
+P-value
+Yes (21)
+No (178)
+Female
+10 (58,8%)
+135 (91,2%)
+0,001
+Use of Synthetic MMCDs
+17 (81,0%)
+124 (69,7%)
+0,282
+Use of Biologic MMCDs
+12 (57,1%)
+103 (57,9%)
+0,949
+Corticosteroids
+
+
+0,699
+You are using 
+10 (38,8%)
+69 (38,8%)
+
+Used in the past 
+10 (47,6%)
+102 (57,3%)
+
+Never used
+1 (4,8%)
+7 (3,9%)
+
+Previous Use Anti-TNF
+8 (38,1%)
+86 (48,3%)
+0,375
+Elevated PCR 
+8 (38,1%)
+73 (41,0%)
+0,797
+High ESR
+13 (61,9%)
+143 (80,3%)
+0,087
+DAS-28 PCR, Medium
+2.9 (± 1.3) *
+2.7 (± 1.3) *
+0,612
+DAS-28 VHS, Average
+3.5 (± 1.3) *
+3.5 (± 1.4) *
+0,907
+SDAI, average
+15.3 (± 11.2) *
+16.1 (± 11.4) *
+0,643
+Rheumatoid Factor High Titers
+10 (47,6%)
+84 (47,2%)
+0,970
+Anti-CCP High Titers
+9 (42,9%)
+88 (49,4%)
+0,568
+Smoker
+10 (47,6%)
+39 (21,9%)
+0,010
+Associated comorbidities
+17 (81,0%)
+124 (69,7%)
+0,282
+*Standard deviation in parentheses.
+Anti-CCP: antibodies against cyclic citrullinated peptide; Anti-TNF: Anti-Tumor Necrosis Factor Antibody; DAS-28 CRP: Disease Activity Score-28 for rheumatoid arthritis calculated by serum CRP level; DAS-28 ESR: Disease Activity Score-28 for rheumatoid arthritis calculated by serum ESR level; MMCD: Disease-modifying drugs; PCR: polymerase chain reaction; SDAI: Simplified Disease Activity Index; ESR: erythrocyte sedimentation rate.
+Source: data collected by the author.	
+Binary logistic regression was performed to verify whether being male and being a smoker were predictors of emphysema. The sex-only model was significant [X² (1) = 7.207; p < 0.007, R² Negelkerke = 0.052].
+In the multivariate analysis, being male (OR = 2.87; 95%CI, 1.12 – 7.32) was associated with the presence of emphysema (Table 17). 
+Table 17 – Multivariate binary logistic regression for emphysema (n=203)
+Variable analyzed
+Model 1 
+OR (95% CI)
+Model 2 
+OR (95% CI)
+P-value
+Model 2
+Male
+3,17 (1,30-7,74)
+3,37 (1,40-8,09)
+0,011
+Smoking
+1,29 (0,62-2,70) *
+
+
+ Source: data collected by the author.	
+Older male patients with RA, duration of disease, HRCT abnormalities, LTBI, pulmonary fibrosis, pulmonary nodules, elevated RR and CRP values were proportionally more frequent among smokers. However, only male gender, older age, and HRCT abnormalities were statistically significant (p < 0.1) in this bivariate exploratory analysis, and were included in the multivariate analysis (Table 18).
+Table 18 – Comparison of the characteristics of patients with Rheumatoid Arthritis: smokers versus nonsmokers (n=203).
+Variable analyzed
+Smoking
+P-value
+Yes (51)
+No (152)
+Female
+40 (78,4%)
+139 (91,4%)
+0,013
+Middle Ages
+61.9 (± 9.3) *
+55.5 (± 11.9) *
+0,001
+Duration of illness, mean
+14.4 (± 8.7) *
+13.2 (± 9.5) *
+0,402
+HRCT with alteration
+48 (98,0%)
+134 (89,3%)
+0,061
+Latent tuberculous infection
+13 (25,5%)
+28 (18,4%)
+0,277
+Pulmonary fibrosis
+3 (6,1%)
+8 (5,3%)
+0,834
+Pulmonary nodules
+37 (75,5%)
+107 (71,3%)
+0,570
+Calcification of pulmonary nodules
+
+
+0,519
+Calcified
+18 (36,7%)
+62 (41,3%)
+
+Non-calcified
+19 (38,8%)
+45 (30,0%)
+
+Absent
+12 (24,5%)
+43 (28,7%)
+
+Elevated Rheumatoid Factor
+27 (55,1%)
+67 (44,4%)
+0,191
+Elevated PCR 
+22 (43,1%)
+60 (39,7%)
+0,669
+High ESR
+38 (74,5%)
+120 (79,5%)
+0,458
+Elevated Anti-CCP
+22 (44,9%)
+75 (49,7%)
+0,561
+Interstitial lung disease
+10 (29,4%)
+24 (70,6%)
+0,514
+Pleural involvement
+6 (12,2%)
+20 (13,3%)
+0,844
+Wrapping by air
+16 (32,7%)
+36 (24,0%)
+0,231
+Emphysema
+10 (20,4%)
+11 (7,3%)
+0,010
+*Standard deviation in parentheses.
+Anti-CCP: antibodies against cyclic citrullinated peptide; PCR: polymerase chain reaction; HRCT: high-resolution computed tomography; ESR: erythrocyte sedimentation rate.
+Source: data collected by the author.	
+
+Binary logistic regression was performed to verify whether having emphysema, being male, and being older are associated with smoking. The model containing age and male gender was significant [X² (2) = 16.089; p < 0.001, R² Negelkerke = 0.125].
+Being male was a factor associated with smoking (OR = 3.048; 95%CI, 1.213 – 7.661), as well as high age was correlated with smoking (β = 1.049; 95%CI, 1.017 – 1.082), but having emphysema was not associated with not smoking (Table 19).
+Table 19 – Multivariate binary logistic regression for non-smoking (n=203)
+Variable analyzed
+Model 1 
+OR (95% CI)
+Model 2 
+OR (95% CI)
+P-value
+Model 2
+ Age
+1,04 (1,01-1,07) *
+1,04 (1,01-1,08) *
+0,002
+Male
+2,69 (1,03-6,99)
+3,04 (1,21-7,66)
+0,018
+Emphysema
+1,85 (0,67-5,09)
+
+
+       *Beta value in parentheses.
+         Source: Prepared by the author.
+Older patients, LTBI, pulmonary fibrosis, ILD, and pulmonary nodules, whether calcified or not, were proportionally more frequent among patients with elevated RP (Table 19). 
+Table 20 – Comparison of the characteristics of patients with Rheumatoid Arthritis with elevated versus normal rheumatoid factor (n=203).
+Variable analyzed
+Rheumatoid Factor
+P-value
+Normal (105)
+Elevated (95)
+Age
+55.6 (± 11.8) *
+58.2 (± 10.9) *
+0,115
+Female
+96 (90,6%)
+80 (85,1%)
+0,236
+HRCT with alteration
+94 (89,5%)
+88 (93,6%)
+0,302
+Latent tuberculous infection
+19 (17,9%)
+19 (17,9%)
+0,338
+Pulmonary fibrosis
+5 (4,8%)
+6 (6,4%)
+0,617
+Pulmonary nodules
+72 (68,6%)
+72 (76,6%)
+0,222
+Calcification of pulmonary nodules
+
+
+0,425
+Calcified
+41 (39,0%)
+39 (41,5%)
+
+Non-calcified
+31 (29,5%)
+33 (35,1%)
+
+Absent
+33 (31,4%)
+22 (23,4%)
+
+Interstitial lung disease
+9 (26,5%)
+25 (73,5%)
+0,017
+Pleural involvement
+15 (14,3%)
+11 (11,7%)
+0,589
+Airway involvement
+20 (19,0%)
+32 (34,0%)
+0,016
+Emphysema
+11 (10,5%)
+10 (10,6%)
+0,970
+*Standard deviation in parentheses.
+ HRCT: high-resolution computed tomography.
+ Source: data collected by the author.	
+Binary logistic regression was performed to verify whether having ILD and having lower airway involvement on HRCT scans were associated with elevated rheumatoid factor levels. The model containing airway involvement was significant [X² (1) = 5.799; p < 0.016, R² Negelkerke = 0.054].
+Having lower airway involvement (OR = 2.194; 95%CI, 1.148 – 4.191) was correlated with elevated levels of rheumatoid factor, but having ILD was not correlated when multivariate analysis was performed (Table 21).
+Table 21 – Multivariate binary logistic regression for the presence of elevated rheumatoid factor (n=203)
+Variable analyzed
+Model 1
+OR (95% CI)
+Model 2
+OR (95% CI)
+P-value
+Model 2
+Lower airway involvement
+1,82 (0,91-3,63)
+2,19 (1,14-4,19)
+0,017
+Interstitial lung disease
+2,75 (0,91-5,9)
+
+
+Source: Prepared by the author. 
+No variable was statistically significantly associated with anti-CCP (Table 22).
+Table 22 – Comparison of the characteristics of patients with Rheumatoid Arthritis with elevated versus normal anti-CCP (n=203).
+Variable analyzed
+Anti-CCP
+P-value
+Normal (103)
+Elevated (97)
+Age
+56.30 (± 12.4) *
+57.45 (± 10.4) *
+0,480
+Female
+93 (90,3%)
+83 (85,6%)
+0,304
+HRCT with alteration
+93 (91,2%)
+89 (91,8%)
+0,884
+Latent tuberculous infection
+20 (19,4%)
+21 (21,6%)
+0,696
+Pulmonary fibrosis
+3 (2,9%)
+8 (8,2%)
+0,102
+Pulmonary nodules
+72 (70,6%)
+72 (74,2%)
+0,566
+Calcification of pulmonary nodules
+
+
+0,802
+Calcified
+39 (38,2%)
+41 (42,3%)
+
+Non-calcified
+33 (32,4%)
+31 (32,0%)
+
+Absent
+30 (29,4%)
+25 (25,8%)
+
+Interstitial lung disease
+14 (41,2%)
+20 (58,8%)
+0,258
+Pleural involvement
+11 (10,8%)
+15 (15,5%)
+0,328
+Lower airway involvement
+21 (20,6%)
+31 (32,0%)
+0,068
+Emphysema
+12 (11,8%)
+9 (9,3%)
+0,568
+*Standard deviation in parentheses.
+ HRCT: high-resolution computed tomography.
+ Source: data collected by the author.
+The following tables show the comparison of pulmonary function tests (FVC and DLCO) and the walking test (BORGMI) with RR (Table 20), anti-CCP (Table 21), smoking (Table 22), ILD (Table 23), and emphysema (Table 24), with no associations.  . 
+The modified BORG scale (BORGMI) is applied after the 6-minute walk test, in which the correlation between symptoms (dyspnea) and the categories described is verified:
+0
+No
+0,5
+Very, very light
+1
+Very light
+2
+Lightweight
+3
+moderate
+4
+a little strong
+5
+Strong
+6
+
+7
+Very intense
+8
+
+9
+very, very intense
+10
+maxim
+
+Table 23 – Comparison of pulmonary function and walk test with elevated versus normal RR in patients with Rheumatoid Arthritis.
+Variable analyzed
+Rheumatoid Factor
+P-value
+Normal (105)
+High (95)
+FVC, mean
+78.9 (± 17.1) *
+83.5 (± 21.2) *
+0,431
+DLCO, medium
+86.3 (± 20.8)*
+83.8 (± 22.0) *
+0,664
+BORGMI, media
+2.8 (± 2.9)*
+1.6 (± 2.0)*
+0,058
+*Standard deviation in parentheses.
+ FVC: forced vital capacity; DLCO: diffusing capacity of carbon monoxide; BORGMI:
+ modified BORG scale.
+ Source: data collected by the author.
+
+Table 24 – Comparison of pulmonary function and walk test with elevated versus normal anti-CCP in patients with Rheumatoid Arthritis.
+Variable analyzed
+Anti-CCP
+P-value
+Normal (103)
+High (97)
+FVC, mean
+83.4 (± 17.9) *
+80.6 (± 21.4) *
+0,623
+DLCO, medium
+85.7 (± 17.9) *
+84.1 (± 24.4) *
+0,777
+BORGMI, media
+3.0 (± 2.5)*
+1.5 (± 1.8)*
+0,081
+*Standard deviation in parentheses.
+ FVC: forced vital capacity; DLCO: diffusing capacity of carbon monoxide; BORGMI: 
+ modified BORG scale.
+ Source: data collected by the author.
+
+Table 25 – Comparison of pulmonary function and walking test with smoking in patients with Rheumatoid Arthritis.
+Variable analyzed
+Smoking
+P-value
+Yes (51)
+No (152)
+FVC, mean
+81.1 (± 18.5)*
+83.8 (± 23.0) *
+0,654
+DLCO, medium
+89.4 (± 20.6) *
+75.5 (± 20.5) *
+0,052
+BORGMI, media
+2.7 (± 2.0)*
+2.7 (± 2.1)*
+0,308
+*Standard deviation in parentheses.
+ FVC: forced vital capacity; DLCO: diffusing capacity of carbon monoxide; BORGMI:
+ modified BORG scale.
+ Source: data collected by the author.
+
+Table 26 – Comparison of pulmonary function with ILD in patients with Rheumatoid Arthritis.
+Variable analyzed
+DPI
+P-value
+Yes (34)
+No (165)
+FVC, mean
+79.7 (± 18.9) *
+84.2 (± 20.7) *
+0,430
+DLCO, medium
+79.4 (± 22.1) *
+89.7 (± 19.8) *
+0,073
+*Standard deviation in parentheses.
+ FVC: forced vital capacity; DLCO: Carbon monoxide diffusion capacity.
+ Source: data collected by the author.
+
+Table 27 – Comparison of pulmonary function with emphysema in patients with rheumatoid arthritis.
+Variable analyzed
+Emphysema
+P-value
+Yes (21)
+No (178)
+FVC, mean
+78.2 (± 24.1) *
+82.2 (± 19.6) *
+0,703
+DLCO, medium
+72.8 (± 25.5)*
+86.1 (± 20.9) *
+0,189
+*Standard deviation in parentheses.
+ FVC: forced vital capacity; DLCO: Carbon monoxide diffusion capacity.
+ Source: data collected by the author.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 DISCUSSION 
+RA is one of the most common autoimmune diseases, affecting about 1% of the world's population, prevailing two to three times more in females (Gibofsky91, 2014; Sanmartí92, 2013). This is consistent with the sample studied, which showed that, in 203 patients, that is, 88% were female. The mean age of 57.14 ± 11.65 years is also consistent with the literature, in which the predominant age group is between 40 and 60 years. More than half of our patients were brown (64%), followed by black (30%), according to our population, in which there is a strong miscegenation between races. 
+In 75% of the sample, we found non-smokers. We know that smoking is a risk factor for several diseases, including RA, especially because it promotes the citrullinizationcitrullination of proteins, which, combined with genetic predisposition, produce ACPA, which are responsible for greater joint erosion and more severe RA. However, other factors (mentioned below) besides smoking can induce the citrulinizationcitrullination of proteins, triggering the immune response with the production of autoantibodies and the onset of the disease. The fact that this sample was composed mostly of non-smokers corroborates the idea that in our population there may have been participation of environmental factors other than smoking (Laria93, 2022). 
+Several other environmental factors have been implicated in the development of RA, such as silicone, other allergens, and microbial agents. Viral peptides function as citrullinated proteins, serving as antigens to ACPAs. Viruses such as Epstein Barr, human parvovirus B19, arboviruses have already been investigated in RA. Similarly, bacteria such as Proteus mirabilis, mycobacteria, mycoplasma, etc. Porphyromonas gingivalis is an anaerobic gram-negative bacterium strongly involved as an etiological agent of periodontal disease, found very frequently in the early phase of RA. Through the peptidyl enzyme arginine deiminase, it is speculated that P. gingivalis is capable of citrullinate citrullining proteins, triggering immunogenicity and the development of circulating ACPA (Sanmartí92, 2013; Sokolova94, 2022).
+In RA, comorbidities may occur due to the chronic inflammatory state in addition to genetic characteristics of some patients (Figus7, 2020). However, the treatment of the disease also favors the development of comorbidities. This is the example of non-steroidal anti-inflammatory drugs used on some occasions due to pain, which can cause sodium retention and consequently arterial hypertension (SAH) and even interstitial nephritis causing kidney dysfunction. Corticosteroids, on the other hand, unfortunately still used on a large scale in patients with TCDD, cause diabetes, osteoporosis, cataractscataracts, and obesity. In RA, they continue to be used, but at lower doses because there is no benefit at high doses except in very activehighly active extra-articular disease. In this sample of patients studied, about 70% had comorbidities, possibly two or moretwo or more associated with each other, totaling sixty-three (31%) patients, with the most frequent association being hypertension and diabetes. Interestingly, we found only 3% of diabetics without other associated diseases, while only 4.4% of the patients had never used corticosteroids. About 40% were in chronic use and 55.7% had used in the past. 
+If we consider that, of the patients with associated comorbidities, all were diabetic and we added to the six diabetics without other associations, it would still be a number of sixty-nine (34%) patients, much lower for a sample of patients in which more than half had already used corticosteroids, calling attention to the fact that, in the sample of patients studied,  The use of corticosteroids does not seem to have been harmful in causing hyperglycemia or diabetes, presumably because the dose of this medication was low. The data coincide with regard toregarding osteoporosis and obesity, as we found only eight (3.9%) patients with osteoporosis and two (0.98%) with obesity. However, these data are probably underestimated, as osteoporosis and obesity were not carefully evaluated because they were not part of the study's objectives.
+Regarding the clinical profile, approximately 83% of the patients were symptomatic, with a predominance of joint symptoms in 53.7% of the sample and joint symptoms concomitantly with respiratory symptoms in 17.7%. Correlating with inflammatory activity tests and disease activity indices, we found that 21.8% of the patients had normal ESR and 26.7% had ESR in high titers, normal CRP in 59.4% of cases and 21.8% in high titers. About 30% of the patients were in remission evaluated by DAS-28 ESR, 47.5% by DAS-28 PCR. These numbers would be directly relatedrelated to the findings of laboratory tests of inflammation. Only 14% of patients were in remission when assessed by SDAI. This result can be explained by the fact that this tool uses subjective parameters, such as the doctor's and patient's impression. Thus, in the present series, most patients had joint pain, which may not necessarily mean arthritis or active disease, but rather the existence of a mechanical condition due to degenerative sequelae, deformitydeformity, or joint erosion. 
+Regarding the therapeutic management profile, about 71% of the patients were using MTX, which is generally consistent with care services and the world literature because it is the most prescribed drug in RA. MTX is the anchor drug in the treatment of RA (Fragoulis95, 2019). We found 43.3% of patients naïve from biologic DMARD. Of those who used biologics, the majority were using anti-TNF. Regarding the use of corticosteroids, less than half of the patients were using them and the dose used was low, according to the usual use in RA, and even in patients with ILD, the use was low, only one patient with NSIP used a dose of 20 mg, the highest dose used in the sample. We found no association between drugs and lung disease.
+Laboratory data showed that approximately half of the sample was RF and anti-CCP positive, more than 30% with antibodies in high titers. RF antibodies recognize the Fc part of IgG and, although it is a non-specific test, it has a high pre-test probability, therefore very usefulespecially useful in clinical practice. Other situations may be RF-positive, such as syphilis, tuberculosis, leprosy, visceral leishmaniasis, chronic liver disease, sarcoidosis, SLE, and SS, and it can even be detected in normal people, especially in the elderly, but usually in low titers, in the low proportion of 5 to 30%, depending on the type of study performed, population, and methodology adopted (van Deft96, 2020). Anti-CCP antibodies are ACPA, present in 50 to 70% of RA patients, with sensitivity similar to RF, but more specific, around 95% specificity (Sokolova94, 2022; van Deft96, 2020). 
+There are several tests for ACPA, the most commonly used being the cyclic citrullinated peptide 2 and the third generation tests (Santiago97, 2008). 
+Less than 15% of the patients had positive ANA, with a predominance of homogeneous nuclear patterns. Antinuclear antibodies can be found in about 50% of patients with RA (Steiner98, 2002), and the homogeneous pattern is more frequent than the dotted pattern. On the other hand, anti-SSA was present in 5.5%. In an observational study with 230 RA patients, ANA was positive in 25.2% and anti-SSA in 13.1% (Emad99, 2021). 
+Of the HRCT scans performed, we found alterations in 89.6%, calling attention to the presence of ILD in 17% of the patients. In approximately 57% of cases, we described the presence of other findings, such as overlapping images, atelectasis, parenchymal bands, architectural distortion, budding tree, honeycombing, air trapping, and air cysts that coincide with the tomographic alterations described in the literature, in addition to  a reticular pattern, interlobular septum thickening, ground-glass opacities, mosaic perfusion, and traction bronchiectasis (Zhang100,  2017; Gautam101, 2020). These other findings, without jointly characterizing a subtype of ILD, are the interstitial lung abnormalities already discussed in the literature review, described as incidental findings, present in around 20 to 60% of patients with RA and may progress radiologically in more than 50% of cases in less than two years (Dourado 18, 2020). 
+In our series, we observed a considerably important value of these incidental findings (57%), calling attention to close care follow-up even in asymptomatic patients, since symptoms alone are not sufficient to screen for interstitial changes (see Table 3 in results). The presence of these interstitial lung abnormalities represents the subclinical disease whose meaning must be considered and due attention to the progression of the disease so that its extension and worsening can be avoided (Abdelwahab102, 2022). Therefore, in order to avoid progression, a good clinical follow-up should be performed, with repeated HRCT and pulmonary function tests, control of joint disease, avoiding persistence of disease activity, and being attentive to the slightest symptoms. The difficulty lies precisely at the point where we do not know how to treat subclinical disease, especially in asymptomatic patients. 
+Correlating with pulmonary function tests, we observed that 47% of the patients with ILD had alterations in the pulmonary function tests, strengthening the understanding of the presence of pulmonary involvement and the need for follow-up in  these patients.
+Thus, there is a question about the need for screening in RA patients, especially those who have risk factors associated with progression to ILD, such as advanced age, male gender, very activehighly active disease, smoking, high RR titers and ACPA. Even though the association of these variables with ILD has been well established in the literature (Fazeli16, 2021; Li23, 2020; Chen26, 2022), in the present study, we found an association only between the presence of elevated RR and symptoms with ILD. In any case, there is a concern for an effective follow-up of patients with subclinical disease and a screening of RA patients in general.
+The prevalence of RA-ILD varies widely from 5 to 60% in HRCT studies in other studies in the literature (Chen26, 2022; Salaffi34, 2019; Laria93, 2022), depending on the population analyzed and the methodology applied. In our case series, we found the presence of ILD in 34/199 patients studied by HRCT (17%) and in 13/199 (6.5%) of the patients there was fibrosis, all patients were symptomatic and nine had respiratory symptoms, of which five also had joint symptoms. Too much with just joint symptoms. 
+We believe that the prevalence of ILD in our study is underestimated, as the outbreak of the COVID-19 pandemic coincided with the beginning of our data collection, and those patients who were already symptomatic from the pulmonary point of view, fearing COVID-19, may have avoided attending the outpatient clinic. In addition, hospitalized and potentially more severe patients were not included. 
+A retrospective analysis in Italy (Salaffi34, 2019) found a prevalence of ILD in RA of 19.4% (n=151). On the other hand, a prospective longitudinal and observational study in Spain identified that of 2729 RA patients, 1.72% had clinically significant ILD, quantifying only patients with respiratory symptoms (Hernán103, 2022). However, in this Spanish study, the low prevalence of ILD can be attributed to the inclusion only of those patients with respiratory signs and symptoms and who had abnormal HRCT scans.
+In a nine-year retrospective cohort study conducted in China, the authors performed HRCT scans in 1,121 RA patients in whom 923 did not have ILD. During follow-up, 30.12% developed ILD (Li23, 2020) and 9% progressed with disease. 
+In general, nodules were the most frequently observed alterations on HRCT scans, and were present in 78.4% (95%CI, 72 – 83.9) of the cases. Most of them have been described as residual nodules, residual granulomas, and residual lymph nodes, which leads us to believe that this high frequency of pulmonary nodules in RA patients is more strongly associated with past infections or inactive healed granulomas than with the presence of pulmonary nodules from other causes. Only three patients were found to have cavitated necrobiotic nodules compatible with rheumatoid pulmonary nodules. In these patients, TB was ruled out. All of them had been with the disease for more than ten years and had a very activea highly active articular condition, leading to the belief that there was a greater possibility of extra-articular involvement. Two patients were male, with RF and anti-CCP in high titers, and in one of them there were subcutaneous nodules. These characteristics (cavitated necrobiotic nodules, long-term disease, active joint condition, high antibody titers, and the presence of subcutaneous nodules) suggest that the pulmonary nodules found are secondary to RA. No patients were diagnosed with Caplan's syndrome.
+With the advent of HRCT, the incidental finding of pulmonary nodules has become very commonquite common, described in the literature in around 30% (Simon104, 2018). In our series, more than twice as many were found compared to the data in the literature. The Fleischner Society guidelines (Macmahon105, 2017) for the management of solid nodules are revised recommendations that represent the consensus of opinions of an international multidisciplinary group of thoracic radiologists, pulmonologists, surgeons, pathologists, and other specialists. These recommendations refer to pulmonary nodules incidentally detected on HRCT scans in adult patients at least 35 years of age, and some of them follow below.
+The risk of cancer in nodules smaller than 6 mm is less than 1%. If it has a suspicious morphology or is located inis in the upper lobe, the risk increases by 1 to 5%. Early follow-up is not necessary because, even though they are malignant, they rarely advance in 12 months. 
+For solitary non-calcified solid nodules of 6 to 8 mm in high-risk patients, HRCT scans of the chest at 6 to 12 months and again at 18 to 24 months are recommended. Intervals can be modified according to individual preferences or risk factors such as smoking, emphysema, or other associated comorbidities.
+For solitary non-calcified solid nodules larger than 8 mm, consider follow-up every 3 months and as they increase in size or change in appearance, management should be undertaken considering both invasive and non-invasive measures. Marginal speculation strongly suggests malignancy.
+For multiple subsolid nodules smaller than 6 mm, infectious causes should be considered. 
+An opacity greater than 3 cm is a nodular mass and the probability of malignancy is greater. Malignant tumors are most often found in the upper lobes. Adenocarcinomas and metastases tend to be seen in the periphery, while squamous cell tumors are more frequent near the hila. Small solid nodules in perifissuralperifissure or subpleural location represent intrapulmonary lymph nodes.
+In our sample, nodules smaller than 6 mm and calcified nodules prevailed, leading us to believe that benignity prevailed. It is interesting to know that only two patients with nodules were referred for biopsy, both with non-calcified nodules between 6 and 8 mm, with one patient as residual granulomas and the other as rheumatoid nodules. The latter had a very active disease. In another patient, a solid nodule measuring 7 x 4.8 mm was seen on HRCT, located in the periphery of the transition of the upper and posterior basilar segments of the left lower lobe, with a small eccentric punctiform calcification and pleural tail. On the follow-up HRCT scan, in addition to this nodule, another nodule, semisolid, 7 x 4 mm, was found in the posterior basilar segment of the left lower lobe. The patient progressed with a clinical worsening, regardless of the joint disease, culminating in death whose cause of death  was  an intra-abdominal tumor, already metastasized, that is, most likely the pulmonary nodule was a metastasis. In patients with non-calcified nodules, we observed ground-glass images in twelve of them and, due to the pandemic, we sought to correlate them with covid-19, but only two of them reported having developed covid, neither of them severe. 
+In the total number of patients with nodules, PPD was positive in 19.9%, while in the total number of patients without nodules, PPD was positive in 16.3%. Of note, PPD positivity in the  general Brazilian population ranges from 25 to 35%, observed in 27% in a study in Ceará (Callado106, 2011) and 33.3% in another conducted in Pernambuco (Marques107, 2009), however, in a subgroup of patients with RA or spondyloarthritisspondylarthritis, candidates for biological therapy, their positivity was 16% (Yonekura108, 2017). Thus, the higher frequency of PPD positivity in the group with pulmonary nodules corroborates the idea that previous infection with Mycobacterium tuberculosis could be the cause of such nodules in most patients.
+LTBI translates the presence of a persistent immune response by Mycobacterium tuberculosis without clinical evidence of active disease. After exposure to the tuberculosis bacillus, the chance of infection is about 30% in healthy people, depending on the degree of exposure, infectivity, and immunological factors of the individual. About 5% later become ill due to reactivation of latent infection or new exposure to the bacillus. Several factors can increase the risk of tuberculosis reactivation, such as diseases or immunosuppressive treatments (Anton109, 2019). In RA, there is a high riska considerable risk of TB, probably associatedassociated with immunosuppression linked to the disease and the use of medications, especially corticosteroids and biological immunomodulators (Arkema110, 2015; Sundbaum111, 2021). In RA patients using anti-TNF, the relative risk of contracting tuberculosis increases by reducing the phagocytic capacity of macrophages and causing structural disintegration of the granuloma, promoting mycobacterial growth (Yonekura108, 2017; Anton109, 2019). 
+Results of PPD reactor may indicate false positives, occurring in individuals infected with nontuberculous mycobacteria or people previously vaccinated with the bacillus Calmette-Guérin (BCG). On the other hand, false negative results may occur in situations of immunosuppression. In RA, there is a decrease in the amount and function of regulatory T cells (CD4+ and CD25+). As the magnitude of response to PPD occurs due to the number of CD4+ T cells, an inability to produce an adequate response to PPD is expected in RA (Martins112, 2007). Thus, we have the option of IGRA, which is a test performed on whole blood and measures IFN-γ produced by T cells after exposure to purified or synthesized TB antigens, having a superiority over PPD with greater specificity and sensitivity in the search for LTBI in RA patients (Zafari113, 2020). We intend to perform it in our sample and initially we have already done it in 28 patients, finding positivity in five of them (18%) in addition to four (14%), with results considered indeterminate, all nine of these patients were treated for LTBI.   
+TB continues to be a global public health problem. In 2020, it was estimated that TB had affected almost ten million people worldwide, and in 2021, 68,271 new cases were reported in Brazil, equivalent to an incidence coefficient of thirty-two cases per hundred thousand inhabitants (Miranda114, 2022). Therefore, screening for LTBI is essential, especially in patients who will undergo immunosuppressive therapy.
+In our study, pleural involvement occurred in 13.1% of the patients, characterized by pleural thickening, and there were no cases of pleural effusion or empyema. In the literature, pleural involvement is described in 5% of RA (Brown115, 2007), most often as small unilateral pleural effusion, about 3 to 5% symptomatic. In autopsy studies, the frequency of pleural involvement can be observed in up to 70% of patients (Shaw20, 2015). We did not find any cases of pleural effusion in our sample, and we cannot affirm that the pleural thickening observed was caused by RA.  RA. The lower prevalence of pleural effusion in our series is intriguing and unexpected because, in addition to RA, infectious causes such as TB, which are so frequent in Brazil, could result in a higher proportion of patients with pleural alterations. Bivariate analysis suggested an association with elevated ESR and absence of pleural involvement. We did not identify a convincing reason to justify this negative statistical association.
+Small airway involvement, when assessed by HRCT, was present in 18.5% of our cases. In a cross-sectional study conducted in northern India (Singh116, 2022), which performed pulmonary function tests in RA patients, one third of the patients had small airway disease (n=50), i.e., 32% of the sample. HRCT scans were performed in those patients with small airway involvement, and half of them observed mosaic attenuation images. The authors concluded that small airway disease is prevalent even in patients with short-term or low-activity disease. Little is known about the pathogenesis, clinical impact, or treatment strategies for airway disease in RA (Matson117, 2021). Few studies in the literature address this subject, and a much smaller number are concerned with analyzing the involvement of the small airways exclusively. The vast majority ofMost studies are focused on ILD, probably because it causes greater harm. In our sample, the intention was to perform HRCT scans and pulmonary function tests in all patients. As pulmonary function tests were not performed in the vast majority of patients, we have limitations in the interpretation of the results, however, it is worth mentioning that of the fourteen patients who underwent HRCT airway involvement and underwent pulmonary function tests, only three had normal results, i.e., more than half had abnormal pulmonary function tests.  emphasizing the importance of the exam. Having lower airway involvement was associated with elevated RR (p = 0.016).
+Similarly, pulmonary function tests are also a limitation of our study regarding the evaluation of the emphysema variable. Of the twenty-one patients with emphysema on HRCT scans, only two underwent pulmonary function tests, one with moderate obstructive disorder and the other with increased resistance, i.e., we did not find emphysema. Of these twenty-one patients with emphysema observed on HRCT scans, three had ILD, two of them had pulmonary fibrosis. One of these patients had NSIP and moderate obstructive disorder, and was an elderly patient, a heavy smoker, with RF and anti-CCP present in high titers.  . Smoking and gender were statistically significant with emphysema, but in the multivariate analysis, only male gender was associated with emphysema (p = 0.011).
+Smoking is described in the literature as a risk factor for ILD (Esposito8, 2019; Fazeli16, 2021; chen22, 2022; Kiely46, 2018)  as well as has been associated with anti-CCP antibodies for promoting protein citrulinizationcitrullination (Alunno19, 2018; Florescu21, 2022; Laria93, 2022). However, in the present study, we did not find an association between smoking and the presence of anti-CCP, but we found it with male gender (p = 0.018) and older age (p = 0.002). In isolation, we found a smoker with antibodies in high titers, male, of older age, who was the patient mentioned in the paragraph above, who also had ILD and pulmonary fibrosis.
+7 CONCLUSION
+We conclude, therefore, that pulmonary involvement, when evaluated by HRCT, in the sample studied had a high prevalence, and it is suggested that patients with RA should have this type of evaluation early in the course of the disease, even if they are asymptomatic. Such an initiative has an additional value in our country, associated with the performance of PPD, as a screening for possible LTBI, since the vast majority of patients use synthetic or biological medications for their treatment, which predispose to TB activation.
+
+REFERENCES
+1. Fragoulis GE, Nikiphorou E, Larsen J, Korsten P, Conway R. Methotrexate-Associated Pneumonitis and Rheumatoid Arthritis-Interstitial Lung Disease: Current Concepts for the Diagnosis and Treatment. Front Med (Lausanne). 2019 out. 23; 6: (238): 1-10. doi: 10.3389/fmed.2019.00238
+2. Smolen ST, Aletaha D, Mclnnes LB. Rheumatoid Arthritis. Semin. 2016 out. 22; 388(10055): 2023-2038. 
+3. Anaya JM; Diethelm L; Ortiz LA. Pulmonary involvement in rheumatoid arthritis. Semin Arthritis Rheum. 1995; 24(4) :242-254. doi: 10.1016/s0049-0172(95)80034-4
+4. Guellec D, Cozien S, Ruyssen-Witrand A, Dieudé P, Saraux A. Prevalence, and clinical significance of extra-articular manifestations at diagnosis in the ESPOIR cohort with recent-onset arthritis. Semin Arthritis Rheum. 2020 jun.; 50(3): 409-413. doi: 10.1016/j.semarthrit.2020.01.004. 
+5. Turesson C, O’Fallon WM, Crowson CS, Gabriel SE, Matteson EL. Extra-articular disease manifestations in rheumatoid arthritis: incidence trends and risk factors over 46 years. Ann Rheum Dis. 2003 ago. 1; 62(8): 722-727. doi: 10.1136/ard.62.8.722
+6. Gonzalez A, Kremers HM, Crowson CS, Nicola PJ, Davis JM, Therneau TM et al. The widening mortality gap between rheumatoid arthritis patients and the general population. Arthritis Rheum. 2007 nov.; 56(11): 3583-3587. doi: 10.1002/art.22979
+7. Figus FA, Piga M, Azzolin I, McConnell R, Iagnocco A. Rheumatoid arthritis: Extra-articular manifestations and comorbidities. Autoimmune Rev. 2021 abr.; 20(4): 102776. doi: 10.1016/j.autrev.2021.102776. 
+8. Esposito AJ, Chu SG, Madan R, Doyle TJ, Dellaripa PF. Thoracic Manifestations of Rheumatoid Arthritis. Clin Chest Med. 2019 set.; 40(3): 545-560. doi: 10.1016/j.ccm.2019.05.003
+9. Kadura S, Raghu G. Rheumatoid arthritis-interstitial lung disease: manifestations and current concepts in pathogenesis and management. Eur Respir Rev. 2021 jun. 23; 30(160): 210011; doi: 10.1183/16000617.0011-2021 
+10. Cassone G, Manfredi A, Vacchi C, Luppi F, Coppi F, Salvarani C et al. Treatment of Rheumatoid Arthritis-Associated Interstitial Lung Disease: Lights and Shadows. J Clin Med. 2020 abr. 10; 9(4):1082 doi:10.3390/jcm9041082
+11. Tanaka N, Nkim JS, Newell JD, Brown KK, Cool CD, Meehan R et al. Rheumatoid arthritis-related lung diseases: CT findings. Radiology. 2004; 232(1): 81-91. 
+12. Antin-Ozerkis D, Evans J, Rubinowitz A, Homer RJ, Matthay RA. Pulmonary manifestations of rheumatoid arthritis. Clin Chest Med. 2010 set.; 31(3): 451-478. doi: 10.1016/j.ccm.2010.04.003
+
+
+13. Jani M, Hirani N, Matteson LE, Dixon WG. The safety of biologic therapies in RA‑associated interstitial lung disease. Nat Rev Reumatol. 2014 maio; 10: 284-294. doi: 10.1038/nrrheum.2013.197
+14. Martinez JAB. Pulmonary involvement in rheumatoid arthritis. Rev Bras Reumatol. 2011 Aug.; 51(4): 295-298.
+15. Bongartz T, Nannini C, Medina-Velasquez YF, Achenbach SJ, Crowson CS, Ryu JH et al. Incidence and mortality of interstitial lung disease in rheumatoid arthritis. Arthritis Rheum. 2010 jun.; 62(6): 1583-1591. doi: 10.1002/art.27405
+16. Fazeli MS, Khaychuk V, Wittstock K, Han X, Crocket G, Lin M et al. Rheumatoid arthritis-associated lung disease: epidemiology, risk/prognostic factors, and treatment landscape. Clin Exp RheumatolRheumatology. 2021 set.-out.; 39(5): 1108-1118. doi: 10.55563/clinexprheumatol/h9tc57
+17. Solomon JJ, Chung JH, Cosgrove GP, Demoruelle MK, Fernandez-Perez ER, Fischer A et al. Predictors of mortality in rheumatoid arthritis-associated interstitial lung disease. Eur Respir J. 2016 fev.; 47(2): 588-596. doi: 10.1183/13993003.00357-2015
+18. Kawano-Dourado L, Doyle TJ, Bonfiglioli K, Sawamura MVY, Nakagawa RH, Arimura FE et al. Baseline Characteristics and Progression of a Spectrum of Interstitial Lung Abnormalities and Disease in Rheumatoid Arthritis. Chest. 2020 maio 16; 158(4): 1546-1554. doi: 10.1016/j.chest.2020.04.061
+19. Tomassetti S, Poletti V, Ravaglia C, Sverzellati N, Piciucchi S, Cozzi D et al. Incidental discovery of interstitial lung disease: diagnostic approach, surveillance, and perspectives. Eur Respir Ver. 2022; 31: 210206 doi: 10.1183/16000617.0206-2021
+20. Alunno A, Bistoni O, Pratesi F, La Paglia GM, Puxeddu I, Migliorini P et al. Anti-citrullinated alpha enolase antibodies, interstitial lung disease and bone erosion in rheumatoid arthritis. Rheumatology. 2018 Mayo; 57: 850-855. doi: 10.1093/Rheumatology/KEX520
+21. Shaw M, Collins BF, Ho LA, Raghu G. Rheumatoid arthritis-associated lung disease. Eur Respir Rev. 2015; 24: 1-16 doi: 10.1183/09059180.00008014
+22. Florescu A, Gherghina FL, Musetescu AM, Padureanu V et al. Novel Biomarkers, Diagnostic and Therapeutic Approach in Rheumatoid Arthritis Interstitial Lung Disease—A Narrative Review. Biomedicines. 2022; 10: 1367. https://doi.org/10.3390/biomedicines10061367
+23. Li L, Liu R, Zhang Y, Zhou J, Li Y, Xu Y et al. A retrospective study on the predictive implications of clinical characteristics and therapeutic management in patients with rheumatoid arthritis-associated interstitial lung disease. Clin Rheumatol. 2020 maio; 39(5): 1457-1470.
+24. Aubart F, Crestani B, Nicaise-Roland P, Tubach F, Bollet C, Dawidowicz D et al. High levels of anti-cyclic citrullinated peptide are associated with co-ocorrenceoccurrence of pulmonary diseases with rheumatoid arthritis. J Rheumatol. 2011 jun.; 38(6):979-82. doi: 10.3899/jrheum.101261
+25. Alunno A, Bistoni O, Pratesi F, Topini F, Puxeddu I, Valentini V et al. Association between anti-citrullinated alpha enolase antibodies and clinical features in a cohort of patients with rheumatoid arthritis: a pilot study. Reumatismo. 2018 set.; 70(2): 67-71. doi: 10.4081/reumatismo.2018.1028
+26. Chen N, Diao C-Y, Gao J, Zhao D-B. Risk factors for the progression of rheumatoid arthritis-related interstitial lung disease: Clinical features, biomarkers, and treatment options. Semin Arthritis Rheum. 2022 ago.; 55: 152004. https://doi.org/10.1016/j.semarthrit.2022.152004
+27. Zheng P, Liu X, Huang H, Guo Z, Wu G, Hu H, et al. Diagnostic value of KL-6 in idiopathic interstitial pneumonia. J Thorac Dis. 2018 set; 10(8): 4724-4732. doi: 10.21037/jtd.2018.07.54
+28. Kim HC, Choi KH, Jacob J, Song JW. Prognostic role of blood KL-6 in rheumatoid arthritis–associated interstitial lung disease. PLoS One. 2020 mar. 12; 15(3): e0229997.
+29. Ishizaka A, Matsuda T, Albertine KH, Koh H, Tasaka S, Hasegawa N et al. Elevation of KL-6, a lung epithelial cell marker, in plasma and epithelial lining fluid in acute respiratory distress syndrome. Am J Physiol Lung Cell Mol Physiol. 2004; 286: L1088-L1094. doi: 10.1152/ajplung.00420.2002
+30. Hamai k, Iwamoto H, Ishikawa N, Horimasu Y, Masuda T, Miyamoto S et al. Comparative Study of Circulating MMP-7, CCL18, KL-6, SP-A, and SP-D as Disease Markers of Idiopathic Pulmonary Fibrosis. Dis Markers. 2016; 2016. http://dx.doi.org/10.1155/2016/4759040
+31. Kinoshita F, Hamanoa H, Harada H, Kinoshita T, Igishib T, Haginoc H, Ogawa T. Role of KL-6 in evaluating the disease severity of rheumatoid lung disease: comparison with HRCT. Respir Med. 2004; 98: 1131-1137. doi: 10.1016/j.rmed.2004.04.003
+32. Lee YS, Kim HC, Lee BY, Lee CK, Kim Mi-Y, Jin Jang SJ et al. The Value of Biomarkers as Predictors of Outcome in Patients with Rheumatoid Arthritis-Associated Usual Interstitial Pneumonia. Sarcoidosis Vasculitis and Diffuse Lung Dis.Sarcoidosis Vasc Diffuse Lung Dis. 2016 out. 7; 33(3): 216-223. 
+33. Travis WD, Costabel U, Hansell DM, King TE, Lynch DA, Nicholson AG et al. An official American Thoracic Society/European Respiratory Society statement: Update of the international multidisciplinary classification of the idiopathic interstitial pneumonias. Am J Respir Crit Care Med. 2013 set. 15; 188(6): 733-748. doi:10.1164/rccm.201308-1483ST
+34. Salaffi F, Carotti M, Carlo MD, Tardella M, Giovagnoni A. High-resolution computed tomography of the lung in patients with rheumatoid arthritis. Prevalence of interstitial lung disease involvement and determinants of abnormalities. Medicine. 2019; 98: 38(e17088).
+35. Liang M, Matteson EL, Abril A, Distler JHW. The role of antifibrotics in the treatment of rheumatoid arthritis–associated interstitial lung disease. Ther Adv Musculoskel Dis. 2022; 14: 1-15. doi: 10.1177/1759720X221074457
+36. Kang J, Seo WJ, Lee EY, Chang SH, Choe J, Hong S, et al. Pleuroparenchymal fibroelastosis in rheumatoid arthritis-associated interstitial lung disease. Respiratory Research 2022; 23: 143-153. https://doi.org/10.1186/s12931-022-02064-z
+37. Raghu G, Anstrom K J, King TE Jr., Lasky JA, Martinez JF. Prednisone, Azathioprine, and N-Acetylcysteine for Pulmonary Fibrosis. The Idiopathic Pulmonary Fibrosis Clinical Research Network. N Engl J Med. 2012 maio 24; 366 (21): 1968-1977. doi: 10.1056/NEJMoa1113354Tem que ver essa citação aqui 
+
+38. Schupp JC, Köhler T, Müller-Quernheim J. Usefulness of cyclophosphamide pulse therapy in interstitial lung diseases. Breathing. 2016; 91: 296-301. doi: 10.1159/000445031 
+39. Barnes H, Holland AE, Westall GP, Goh NSL, Glaspole IN. Cyclophosphamide for connective tissue disease-associated interstitial lung disease. Cochrane Database Syst Rev. 2018; 2018(1): CD010908. doi: 10.1002/14651858.CD010908.pub2
+40. Cassone G, Sebastiani M, Vacchi C, Erre GL, Salvarani C, Manfredi A. EfficacyEfficacy, and safety of mycophenolate mofetil in the treatment of rheumatic disease-related interstitial lung disease: a narrative review. Drugs in context. 2021; 10: 2020-8-8. doi: 10.7573/dic.2020-8-8
+41. Kelly C, Young A, Ahmad Y, Dawson J, Carty S, Nisar M et al. The Effect of Steroids, Azathioprine and Mycophenolate on the Risk of Death in Rheumatoid Lung Disease. Rheumatology. 2016 abr. 24; 55(1): i99-i100. 
+42. Ishida T, Kotani T, Takeuchi T, Makino S. Pulmonary Toxicity After Initiation of Azathioprine for Treatment of Interstitial Pneumonia in a Patient with Rheumatoid Arthritis. J Rheumatol. 2012; 39: 5. doi:10.3899/jrheum.111415
+43. Oldham JM, Lee C, Valenzi E, Witt LJ. Azathioprine Response in Patients with Fibrotic Connective Tissue Disease-associated Interstitial Lung Disease. Respir Med. 2016 dez.; 121: 117-122. doi: 10.1016/j.rmed.2016.11.007
+44. Ogawa D, Hashimoto H, Wada J, Ueno A, Yamasaki Y, Yamamura M et al. Successful use of cyclosporin A for the treatment of acute interstitial pneumonitis associated with rheumatoid arthritis. Rheumatology. 2000; 39: 1422-1424.
+45. Wilkes MR, Sereika SM, Fertig N, Lucas MR, Oddis CV. Treatment of antisynthetase-associated interstitial lung disease with tacrolimus. Arthritis Rheum. 2005 ago.; 52(8): 2439-46. doi: 10.1002/art.21240.
+46. Kiely P, Busby AD, Nikiphorou E, Sullivan K, Walsh DA, Creamer P et al. Is incident rheumatoid arthritis interstitial lung disease associated with methotrexate treatment? Results from a multivariate analysis in the ERAS and ERAN inception cohorts. BMJ Open. 2019 maio; 9: e028466. doi:10.1136/bmjopen-2018-028466
+47. Judge PA, Lee JS, Lau J, Kawano-Dourado L, Serrano JR, Sebastiani M et al. Methotrexate and rheumatoid arthritis associated interstitial lung disease. Eur Respir J. 2021; 57:2000337. doi: 10.1183/13993003.00337-2020
+48. Koo BS, Hong S, Kim YJ, Kim Y-G, Lee C-K, Yoo B. Mortality in patients with rheumatoid arthritis-associated interstitial lung disease treated with an anti-tumor necrosis factor agenteagent. Korean J Intern Med. 2015; 30:104-109. doi: 10.3904/kjim.2015.30.1.104
+49. Dixon WG, Hyrich KL, K D Watson KD, Lunt M. Influence of anti-TNF therapy on mortality in patients with rheumatoid arthritis-associated interstitial lung disease: results from the British Society for Rheumatology Biologics Register. Ann Rheum Dis. 2010; 69: 1086-1091. doi:10.1136/ard.2009.120626
+50. Huang Y, Lin W, Chen Z, Wang Y, Huang Y, Tu S. Effect of tumor necrosis factor inhibitors on interstitial lung disease in rheumatoid arthritis: angel or demon? Drug Des Devel Ther. 2019 jul. 1; 13: 2111-2125. doi: 10.2147/DDDT. S204730
+51. Cassone G, Manfredi A, Atzeni F, Venerito V et al. Safety of Abatacept in Italian Patients with Rheumatoid Arthritis and Interstitial Lung Disease: A Multicenter Retrospective Study. J Clin Med. 2020 jan.; 9(1): 277-291. doi: 10.3390/jcm9010277 
+52. Kurata I, Tsuboi H, Terasaki M, Shimizu M, Toko H, Honda F et al. Effect of Biological Disease-modifying Anti-rheumatic Drugs on Airway and Interstitial Lung Disease in Patients with Rheumatoid Arthritis. Intern Med. 2019 jun. 15; 58(12): 1703-1712. doi: 10.2169/internalmedicine.2226-18
+53.Manfredi A, Cassone G, Furini F, Gremese E, Venerito V, Atzeni F et al. Tocilizumab Therapy in Rheumatoid Arthritis With Interstitial Lung Disease: A Multicenter Retrospective Study. Inter Med J. 2019 out .29; 50 (9):1085-1090. doi: 10.1111/imj.14670
+54. Zhou T, Shen Q, Peng H, Chao T, Zhang L, Huang L et al. Incidence of interstitial pneumonitis in non-hodgkin’s lymphoma patients receiving immunochemotherapy with pegylated liposomal doxorubicin and rituximab. Ann Hematol. 2018; 97: 141-147. doi: 10.1007/S00277-017-3160-1 
+55. Fui A, Bergantini L, Selvi E, Mazzei MA, Bennett D, Pieroni MG et al. Rituximab therapy in interstitial lung disease associated with rheumatoid arthritis. Inter Med J. 2020; 50 (3):330-336.
+56. Pfizer. Japanese Package Inserts of Tofacitinib (in Japanese). Disponível em: http://www.info.pmda.go.jp/go/pack/3999034F1020_1_09/ 
+57. Elli_Lilly_and_Company Elli Lilly and Company. Japanese Package Inserts of Baricitinib (in Japanese). Available online: http://www.info.pmda.go.jp/go/pack/3999043F1020_1_02/ 
+58. Tardella M, Carlo MD, Carotti M, Ceccarelli L, Giovagnoni A, Salaffi F. A retrospective study of the efficacy of JAK inhibitors or abatacept on rheumatoid arthritis‑interstitial lung disease. Inflammopharmacology. 2022; 30:705-712.
+59. Flaherty KR, Wells AU, Cottin V, Devaraj A, Walsh SLF, Inoue Y et al. Nintedanib in Progressive Fibrosing Interstitial Lung Diseases. N Engl J Med. 2019 out. 31; 381(18): 1718-1727. doi: 10.1056/NEJMoa1908681
+60. Solomon JJ, Danoff SK, Woodhead FA, Hurwitz S, Maurer R, Glaspole I et al. Safety, tolerability, and efficacy of pirfenidone inpatients with rheumatoid arthritis-associated interstitial lung disease: a randomisedrandomized, double-blind, placebo-controlled, phase 2 study. Lancet Respir Med. 2022 set.; S2213-2600(22)00260-0. doi: 10.1016/S2213-2600(22)00260-0
+61. Cassone G, Sebastiani M, Vacchi C, Cerri S, Salvarani C, Manfredi A. Pirfenidone for the treatment of interstitial lung disease associated to rheumatoid arthritis: a new scenario is coming? Respir Med Case Rep. 2020; 30: 101051. doi: 10.1016/j.rmcr.2020.101051
+62. Lawry GV, Finerman ML, Hanafee WN, Mancuso AA, Fan PT, Bluestone R. Laryngeal involvement in rheumatoid arthritis. A Clinical, Laryngoscopic, and Computerized Tomographic Study. Arthritis Rheumatol. 1984 ago.; 27 (8): 873-882.
+63. Beirith SC, Ikino CMY, Pereira IA. Laryngeal involvement in rheumatoid arthritis. Braz J Otorhinolaryngol. 2013; 79(2): 233-238. doi: 10.5935/1808-8694.20130040
+64. Hamdan A-L, El-Khatib M, Dagher W, Othman I. Laryngeal involvement in rheumatoid arthritis. Middle East J Anaesthesiol. 2007 jun.; 19(2):335-346.
+65. Sargin G, Senturk T. Multiple pulmonary rheumatoid nodules. ReumatologiaRheumatology. 2015; 53(5): 276-278. doi: 10.5114/reum.2015.55831. 
+66. Alfahad AWS, Jennings P, Smith S, Niktash N, Curtin J. An interesting finding of multiple calcified pulmonary nodules in a patient with rheumatoid arthritis. BJR Case Rep. 2016; 2: 20150116. doi: 10.1259/bjrcr.20150116
+67. Sharma A, Pandey BD, Gupta R, Chaturvedi A. Rheumatoid arthritis with necrotic lung nodules. J R Coll Physicians Edinb. 2020; 50: 307-308. doi: 10.4997/JRCPE.2020.321
+68. Kanıtez NA, Çelik S, Öner SY, Ürer HN, Bes C, Çetinkaya E. Cavitary pulmonary nodules in rheumatoid arthritis; case reports and review of the literature. Eur J Rheumatol. 2018 Mar; 5(1): 65-68. Doi: 10.5152/eurjrheum.2017.16106
+69. Conway R, Low C, Coughlan RJ, O’Donnell MJ, Carey JJ. Leflunomide Use and Risk of Lung Disease in Rheumatoid Arthritis: A Systematic Literature Review and MetaanalysisMetanalysis of Randomized Controlled Trials. J Rheumatol. 2016; 43: 855-860. doi:10.3899/jrheum.150674
+70. Parry SD, C. Barbatzas C, Peel ET, Barton JR. Sulphasalazine and lung toxicity. Eur Respir J. 2002; 19: 756-764. doi: 10.1183/09031936.02.00267402
+71. Scott DL, Bradby GVH, Aitman ITJ, Zaphiropoulos GC, Hawkins CF. Relationship of gold and penicillamine therapy to diffuse interstitial lung disease. Ann Rheum Dis. 1981; 40: 136-141.
+72. Koike R, Tanaka M, Komano Y, Sakai F, Sugiyama H, Nanki T et al. Tacrolimus-induced pulmonary injury in rheumatoid arthritis patients. Pulm. Pharmacol. Ther.  . 2011 ago; 24(4): 401-403.
+73. Holroyd CR, Seth R, Bukhari M, Malaviya A, Holmes C, Curtis C et al. The British Society for Rheumatology biologic DMARD safety guidelines in inflammatory arthritis. Rheumatology. 2019; 58: e3-e42. doi: 10.1093/rheumatology/key208
+74. GUIPCAR Group. Clinical Practice Guidelines for the Management of Patients with Rheumatoid Arthritis, update. Spanish Society of Rheumatology; 2019. Available on: https://www.ser.es/wp-content/uploads/2019/03/Guia-de-Practica-Clinica-para-el-Manejo-de-Pacientes-con-Artritis-Reumatoide.pdf.
+75. Herrinton LJ, Harrold LR, Liu L, Raebel MA, Taharka A, Wnthrop K, et al. Association Between Anti-TNF-α Therapy and Interstitial Lung Disease. Pharmacoepidemiol Drug Saf. 2013 abr.; 22(4): 394-402. doi:10.1002/pds.3409
+76. Vassallo R, Matteson E, Thomas Jr CF. Clinical response of rheumatoid arthritis-associated pulmonary fibrosis to tumourtumor necrosis factor-alpha inhibition. Chest. 2002 set; 122(3): 1093-6. doi: 10.1378/chest.122.3.1093
+77. Weinblatt M, Combe B, Covucci A, Aranda R, Becker JC, Keystone E. Safety of the selective costimulation modulator abatacept in rheumatoid arthritis patients receiving background biologic and nonbiologic disease-modifying antirheumatic drugs: A one-year randomized, placebo-controlled study. Arthritis Rheum. 2006 set.; 54(9): 2807-16. doi: 10.1002/art.22070
+78. Mochizuki T, Ikari K, Yano K, Sato M, Okazaki K. Long-term deterioration of interstitial lung disease in patients with rheumatoid arthritis treated with abatacept. Mod Rheumatol. 2019 maio; 29(3): 413-417. doi: 10.1080/14397595.2018.1481566
+79. Wendling D, Vidon C, Godfrin-Valnet M, Rival G, Guillot X, Prati C. Exacerbation of combined pulmonary fibrosis and emphysema syndrome during tocilizumab therapy for rheumatoid arthritis. Joint Bone Spine. 2013 dez.; 80(6): 670-671.
+80. Akiyama M, Kaneko Y, Yamaoka K, Kondo H, Takeuchi T. Association of disease activity with acute exacerbation of interstitial lung disease during tocilizumab treatment in patients with rheumatoid arthritis: a retrospective, case-control study. Rheumatol Int. 2016 jun.; 36(6): 881-890. doi:10.1007/s00296-016-3478-3
+81. Koike T, Harigai M, Inokuma S, Ishiguro N, Ryu K, Takeuchi T et al. Effectiveness and Safety of Tocilizumab: PostmarketingPostmarketing Surveillance of 7901 Patients with Rheumatoid Arthritis in Japan. J Rheumatol. 2014 jan.; 41(1): 15-23. doi: https://doi.org/10.3899/jrheum.130466
+82. Hadjinicolaou AV, Nisar MK, Parfrey H, Chilvers ER, Östör AJK. Non-infectious pulmonary toxicity of rituximab: a systematic review. Rheumatology. 2012; 51: 653-662. doi:10.1093/rheumatology/ker290
+83. Franzen D, Ciurea A, Bratton DJ, Clarenbach CF, Latshang TD, Russi EW, Kyburz D, Kohler M. Effect of rituximab on pulmonary function in patients with rheumatoid arthritis. Pulm. Pharmacol. Ther. 2016 abr.; 37:24-29.
+84. Harigai M. Growing evidence of the safety of JAK inhibitors in patients with rheumatoid arthritis. Rheumatology. 2019; 58: i34-i42. doi:10.1093/rheumatology/key287
+85. Fleischmann R, Kremer J, Cush J, Schulze-Koops H, Connell C, Bradley JD et al. Placebo-Controlled Trial of Tofacitinib Monotherapy in Rheumatoid Arthritis. N Engl J Med. 2012; 367: 495-507. doi: 10.1056/NEJMoa1109071
+86. Khoo JK, Barnes H, Key S, Glaspole IN, Östör AJ. Pulmonary adverse events of small molecule JAK inhibitors in autoimmune disease: systematic review and meta-analysis. Rheumatology. 2020; 59: 2217-2225. doi:10.1093/rheumatology/keaa117
+87. Aletaha D, Neogi T, Silman AJ, Funovits J, Felson DT, Bingham III CO et al. 2010 rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative. Ann Rheum Dis. 2010; 69(9): 1580-1588. doi: 10.1136/ard.2010.138461
+88. Bilgici A, Ulusoy H, Kuru O, Çelenk Ç, Ünsal M, Danacı M. Pulmonary involvement in rheumatoid arthritis. Rheumatol Int. 2005, 25: 429-435. doi: 10.1007/s00296-004-0472-y 
+89. Prevoo ML, van’t HOF MA, Kuper HH, van Leeuwen MA; van de Putte LB, van Riel PL. Modified disease activity scores that include twenty-eight-joints counts. Development and validation in a prospective longitudinal study of patients with rheumatoid arthritis. Arthritis Rheum. 1995; 38: 44-48. doi: 10.1002/art.1780380107
+90. Smolen JS, Breedveld FC, Schiff MH, Kalden JR, Emery P, Eberl G et al. A simplified disease activity index for rheumatoid arthritis for use in clinical practice. Rheumatology. 2003; 42: 244-257. doi:10.1093/rheumatology/keg072
+91. Gibofsky A. Epidemiology, Pathophysiology, and Diagnosis of Rheumatoid Arthritis: A Synopsis. Am J Care. 2014 maio 31; 20: S128-S135. 
+92. Sanmartí R, Ruiz-Esquide V, and Hernández MV. Rheumatoid Arthritis: a clinical overview of new diagnostic and treatment approaches. Curr Top Med Chem. 2013; 13(6): 698-704. doi: 10.2174/15680266113139990092
+93. Laria A, Lurati AM, Zizzo G, Zaccara E, Mazzocchi D, Re KA et al. IntersticialInterstitial lung disease in rheumatoid arthritis: a practical review. Front Med (Lausanne). 2022 maio 13; 13(9): 9837133. Doi: 10.3389/fmed.2022.837133
+94. Sokolova MV, Schett G, Steffen U. Autoantibodies in rheumatoid arthritis: historical background and novel findings. Clin Ver Allergy Immunol. 2022; 63(2): 138-151. doi: 10.1007/s12016-021-08890-1
+95. Fragoulis GE, Conway R, Nikiphorou E. Methotrexate, and interstitial lung disease: controversies and questions. A narrative review of the literature. Rheumatology (Oxford). 2019 nov. 1; 58(11): 1900-1906. Doi: 10.1093/rheumatology/kez337
+96. van Delft MAM, Huizinga TWJ. Na overview of autoantibodies in rheumatoid arthritis. J Autoimmun. 2020 jun; 110:102392. doi: 10.1016/j.jaut.2019.102392
+97. Santiago M, Baron M, Miyachi K, Fritzler MJ, et al. A comparison of the frequency of antibodies to cyclic citrullinated peptides using a third generation anti-CCP assay (CCP3) in systemic sclerosis, primary biliary cirrhosiscirrhosis, and rheumatoid arthritis. Clin Rheumatol. 2008 jan.; 27(1):77-83. doi: 10.1007/s10067-007-0656-4
+98. Steiner G, Smolen J. Autoantibodies in rheumatoid arthritis and their clinical significance. Arthritis Res. 2002; 4 (2): S1-S5. doi: 10.1186/ar551
+99. Emad Y, Ragab Y, Hammam N, El-Shaarawy N, Ibrahim O, Gamal RM et al. Autoantibodies to extracbleextractable nuclear antigens (ENA) pattern in rheumatoid arthritis patients: Relevance and clinical implications. Reumatol Clin. 2021 Mayo; 17(5):250-257.doi: 10.1016/j.reuma.2019.10.001
+100. Zhang Y, Li h, Wu N, Dong X, Zheng Y. Retrospective study of the clinical characteristics and risk factors of rheumatoid arthritis-associated interstitial lung disease. Clin Rheumatol. 2017 abr.; 36(4): 817-823. doi:10.1007/s10067-017-3561-5
+101. Gautam M, Masood MJ, Arooj S, Mahmud MH, Mukhtar MU. Rheumatoid Arthritis related interstitial lung disease: patterns of high-resolution computed tomography. Cureus. 2020 fev. 4; 12(2): e6875. doi: 10.7759/cureus.6875
+102. Abdelwahab HW, Shalabi NM, Ghoneim MMR, Farrag NS, Hamdy F, Elhoseiny F, Ali RE. Screening for subclinical interstitial lung disease in rheumatoid arthritis patients: functional and radiological methods. Turk Thorac J. 2022; 23(4): 261-267. doi: 10.5152/TurkThoracJ.2022.21263
+103. Hernán MGB, Gómez-Carrera L, Peña M F-V, Walther RA-S, Balsa A. Prevalence, and clinical characteristics of symptomatic diffuse interstitial lung disease in rheumatoid arthritis in a Spanish population. Rev Clin Esp. 2022; 222: 281-287. 
+104. Simon M, Zukotynski K, Naeger DM. Pulmonary nodules as incidental findings. CMAJ. Feb 2018 12; 190(6): E167; doi: https://doi.org/10.1503/cmaj.171223
+105. Macmahon H, Naidich DP, Goo JM, Lee KS, Leung ANC et al. Guidelines for management of incidental pulmonary nodules detected on CT images: from the Fleischner Society 2017. Radiology 2017 Jul;284(1):228-243 Epub Feb 23, 2017;doi: https://doi.org/10.1148/radiol.2017161659
+
+106. Callado MRM, Lima JRC, Nobre CA, Vieira WP. Low prevalence of reactive PPD prior to infliximab use: a comparative study in a sample population of the General Hospital of Fortaleza. Rev. Bras. Reumatol. 2011; 51(1):40-52
+107. Marques CDL, Duarte ALBP, Lorena VMB, Souza JR, et al. Attenuated response to PPD in the diagnosis of latent tuberculosis infection in patients with rheumatoid arthritis. Rev Bras Reumatol. 2009; 49(2):121-25. http://dx.doi.org/10.1590/S0482-50042009000200004.
+108. Yonekura CL, Louzada-Junior P. Incidence of tuberculosis among patients with rheumatoid arthritis using TNF blockers in Brazil: data from the Brazilian Registry of Biological Therapies in Rheumatic Diseases. RevRev. BrasBras. Reumatol. Engl. Ed. 2017; 57 Suppl 2:477-483. doi: 10.1016/j.rbre.2017.05.005
+109. Anton C, Machado FD, Ramirez JMA, Bernardi RM, Palominos PE, Brenol CV et al. Latent tuberculosis infection in patients with rheumatic diseases. J Bras Pneumol. 2019 abr. 25; 45(2):E20190023. Doi: 10.1590/1806-3713/e20190023
+110. Arkema EV, Jonsson J, Baecklund E, Bruchfeld J, Feltelius N, Askling J et al. Are patients with rheumatoid arthritis still at an increased risk of tuberculosis and what is the role of biological treatments? Ann Rheum Dis. 2015 jun.; 74(6):1212-1217. doi: 10.1136/annrheumdis-2013-204960. 
+111. Sundbaum JK, Arkema EV, Bruchfeld J, Jonsson J, Askling J, Baecklund E. Tuberculosis in biologic-naïve patients with rheumatoid arthritis: risk factors and tuberculosis characteristics. J Rheumatol. 2021 ago.; 48(8):1243-1250. doi: 10.3899/jrheum.201251
+112. Martins MVBS, Lima MCBS, Duppre NC, Matos HJ, Spencer JS, Brennan PJ et al. The level of PPD-specific IFN-gamma-producing CD4+ T cell in the blood predicts the in vivo response to PPD. Tuberculosis (Edinb) 2007 May; 87(3):202-211. doi: 10.1016/j.tube.2006.07.006
+113. Zafari P, Golpour M, Hafezi N, Bashash D, Esmaeili AS, Tavakolinia N et al. Tuberculosis comorbidity with rheumatoid arthritis: gene signatures, associated biomarkers, and screening. IUBMB Life. 2021 jan.; 73(1): 26-39. doi: 10.1002/iub2413
+114. Miranda AEB, Johansen FDC, Pereira GFM. Epidemiological Bulletin. Department of Health Surveillance. Ministry of Health. Special Number. Mar 2022. ISSN: 9352-7864.
+115. Brown KK. Rheumatoid lung disease. Proc Am Thorac Soc. 2007 aug 15; 4(5): 443–448.
+116. Singh R, Krishnamurthy P, Deepak D, Sharma B, Prasad A. Small airway disease and its predictors in patients with rheumatoid arthritis. Respir Investig. 2022 maio; 60(3): 379-384. doi: 10.1016/jresinv.2022.12.001
+117. Matson SM, Demoruelle MK, Castro M. Airway disease in rheumatoid arthritis. Ann Am Thorac Soc. 2022 mar.; 19(3): 343-352. doi: 10.1513/AnnalsATS.202107-876CME
+
+
+ANNEX 1
+Informed Consent Form
+Projeto de Pesquisa: Estudo do envolvimento pulmonar em amostra de pacientes com Artrite Reumatoide
+O (A) Sr (a) está convidado (a) a participar da pesquisa acima citada sob a coordenação da Dra. Silvana Magalhães Passos de Souza. Por favor, leia este documento com bastante atenção antes de assiná-lo. Caso haja alguma palavra ou frase que o (a) senhor (a) não consiga entender, converse com o pesquisador responsável pelo estudo ou com um membro da equipe desta pesquisa para esclarecê-lo.
+A proposta deste termo de consentimento livre e esclarecido (TCLE) é explicar tudo sobre o estudo e solicitar a sua permissão para participar do mesmo.
+O objetivo principal desta pesquisa é estudar o acometimento pulmonar em artrite reumatoide (AR), analisar as alterações presentes nos exames de imagem (tomografia computadorizada de alta resolução do tórax) e avaliar a associação com medicações utilizadas no tratamento da doença, com o hábito de fumar, com a presença de determinados exames laboratoriais (como VHS, PCR, autoanticorpos como FAN, fator reumatoide, anti-CCP e biomarcadores).
+Para tal está sendo informado que será submetido a uma avaliação clínica (entrevista e exame físico, assim como em uma consulta de rotina) por um reumatologista no Ambulatório do Hospital Universitário Professor Edgar Santos (HUPES), no tempo previsto em 30 a 60 minutos. 
+Caso concorde, responda aos questionários sobre algumas informações pessoais e dados sobre a doença (quando começou, quais eram os sintomas, se tem o hábito de fumar). Será também solicitada uma amostra de 10 ml de sangue para a realização de exames laboratoriais como descrito acima e encaminhamento para realizar exames de imagem (tomografia computadorizada) no HUPES, além de testes de função pulmonar no serviço de Pneumologia no Ambulatório do HUPES. 
+Custos: Fica esclarecido (a) que todos os custos dessa pesquisa serão da responsabilidade do pesquisador, inclusive se houver custos extras com transporte e alimentação.
+Riscos e desconfortos: A participação nesta pesquisa traz mínimos riscos como a possibilidade de dor durante a coleta de sangue dos exames laboratoriais, a realização de outros exames como a tomografia computadorizada do tórax de alta resolução e espirometria que poderão trazer algum incômodo, a entrevista e o uso de dados em prontuário que poderão causar alguma exposição. Caso se sinta desconfortável após a aplicação dos questionários ou da realização dos exames poderá receber apoio médico no ambulatório citado. Assim, a pesquisa obedece aos Critérios da Ética em Pesquisa com Seres Humanos conforme Resolução nº. 466/12 do Conselho Nacional de Saúde.
+Benefícios: estudar a população de doentes portadores de AR no serviço de Reumatologia do HUPES-UFBA, analisar a frequência do envolvimento pulmonar e diante de uma amostra expressiva, validar externamente para outras regiões do Brasil, uma vez que os trabalhos publicados a nível nacional tiveram uma amostra pequena, alertando para o tratamento precoce do acometimento pulmonar.
+Participação Voluntária / Desistência no estudo: A participação neste estudo é totalmente voluntária, ou seja, somente participará se quiser. A não participação no estudo não implicará em nenhuma alteração no seu acompanhamento médico nem tão pouco alterará a relação com a equipe médica, estando ciente que mesmo após assinatura deste termo é possível abandonar a pesquisa a qualquer momento se assim o desejar, sem quaisquer prejuízos à continuidade do tratamento e acompanhamento na instituição. 
+Novas Informações: Quaisquer novas informações que possam afetar a sua segurança ou influenciar na sua decisão de continuar no estudo serão fornecidas por escrito. Se decidir continuar no estudo, assinará um novo Termo de Consentimento Informado, devidamente revisado para documentar seu conhecimento sobre as novas informações.
+Em Caso de Danos Relacionados à Pesquisa: Em caso de dano pessoal, diretamente causado pelos procedimentos ou tratamentos propostos neste estudo (nexo causal comprovado), o participante terá direito a tratamento médico na Instituição, bem como às indenizações legalmente estabelecidas.
+Utilização de Registros Médicos e Confidencialidade: Todas as informações coletadas neste estudo são estritamente confidenciais. Somente a equipe de pesquisadores terá conhecimento dos dados bem como os resultados dos testes serão analisados em caráter estritamente científico, mantendo-se a confidencialidade, ou seja, em nenhum momento os dados que o (a) identifique serão divulgados, a menos que seja exigido por lei. Os registros médicos com sua identificação e esse termo de consentimento assinado poderão ser inspecionados por agências reguladoras e pelo CEP. Os resultados desta pesquisa poderão ser apresentados em reuniões ou publicações, contudo, sua identidade não será revelada nessas apresentações. Esse termo de consentimento será elaborado em duas vias, rubricadas em todas as suas páginas e assinadas, ao seu término, pelo convidado a participar da pesquisa, ou por seu representante legal, assim como pelo
+pesquisador responsável, ou pela (s) pessoa (s) por ele delegada (s), devendo as páginas das assinaturas estar na mesma folha. Em ambas as vias deverão constar o endereço e contato telefônico ou outro, dos responsáveis pela pesquisa e do CEP local. O (A) Sr (a) receberá uma via desse termo de consentimento devidamente assinada.
+Quem Devo Entrar em Contato em Caso de Dúvida: Caso necessite de esclarecimentos adicionais, alguma explicação ou queira fazer alguma sugestão ou reclamação, deverá procurar a Dra. Silvana Magalhães Passos de Souza no Serviço de Reumatologia no Ambulatório do Hospital Universitário Professor Edgar Santos (HUPES) segundas ou quintas feiras a tarde ou pelo telefone (71) 988330065.
+Também poderá procurar o Dr. Mittermayer Barreto Santiago nesse mesmo Ambulatório às sextas-feiras a tarde, ou pelos telefones (71) 32838383 e (71) 988355001.
+Esteja ciente que caso tenha dúvidas e/ou denúncias a fazer, também poderá procurar o Comitê de Ética em Pesquisa do Hospital Universitário Professor Edgar Santos que funciona na Rua Augusto Viana, s/ nº, Canela, na cidade de Salvador, tel (71) 3283-8043, e-mail cep.hupes@gmail.com ou o Conselho Regional de Medicina (CREMEB), localizado à Rua Guadalajara nº 15, Ondina, tel.3339-2800
+
+Declaração de Consentimento:
+Concorda em participar do estudo intitulado “Estudo do envolvimento pulmonar em amostra de pacientes com Artrite Reumatoide”.
+
+Participante da Pesquisa ou seu Responsável:
+Nome ______________________________________ Data _______________
+Assinatura ______________________________________
+
+Pesquisador Responsável pela Pesquisa ou Pessoa por Ele Delegada
+Nome _______________________________________ Data ______________
+Assinatura ________________________________________Research Project: Study of pulmonary involvement in a sample of patients with Rheumatoid Arthritis
+You are invited to participate in the above-mentioned research under the coordination of Dr. Silvana Magalhães Passos de Souza. Please read this document very carefully before signing it. If there are any words or phrases that you cannot understand, talk to the researcher in charge of the study or a member of the research team to clarify it.
+The purpose of this informed consent form (ICF) is to explain everything about the study and request your permission to participate in it.
+The main objective of this research is to study pulmonary involvement in rheumatoid arthritis (RA), to analyze the alterations present in imaging studies (high-resolution computed tomography of the chest) and to evaluate the association with medications used in the treatment of the disease, with the habit of smoking, with the presence of certain laboratory tests (such as ESR, PCR, autoantibodies such as ANA,  rheumatoid factor, anti-CCP and biomarkers).
+To this end, he is being informed that he will undergo a clinical evaluation (interview and physical examination, as well as in a routine consultation) by a rheumatologist at the Outpatient Clinic of the Professor Edgar Santos University Hospital (HUPES), in the expected time of 30 to 60 minutes. 
+If you agree, answer the questionnaires about some personal information and data about the disease (when it started, what the symptoms were, if you have a smoking habit). A 10 ml blood sample will also be requested for laboratory tests as described above and referral for imaging tests (computed tomography) at HUPES, in addition to pulmonary function tests at the Pulmonology service at the HUPES Outpatient Clinic. 
+Costs: It is clarified that all costs of this research will be the responsibility of the researcher, including if there are extra costs with transportation and food.
+Risks and discomforts: Participation in this research carries minimal risks such as the possibility of pain during blood collection from laboratory tests, the performance of other tests such as high-resolution chest computed tomography and spirometry that may cause some discomfort, the interview and the use of data in medical records that may cause some exposure. If you feel uncomfortable after the application of the questionnaires or the tests, you can receive medical support at the aforementioned outpatient clinic. Thus, the research complies with the Criteria of Ethics in Research with Human Beings, according to Resolution No. 466/12 of the National Health Council.
+Benefits:  to study the population of patients with RA in the Rheumatology Service of HUPES-UFBA, to analyze the frequency of pulmonary involvement and in the face  of a significant sample, to validate externally to other regions of Brazil, since the studies published at the national level had a small sample, alerting to the early treatment of pulmonary involvement.
+Voluntary Participation/Withdrawal from the study:  Participation in this study is completely voluntary, i.e., you will only participate if you want to. Not participating in the study will not imply any change in your medical follow-up, nor will it alter the relationship with the medical team, being aware that even after signing this term it is possible to abandon the research at any time if you wish, without any prejudice to the continuity of treatment and follow-up at the institution. 
+New Information: Any new information that may affect your safety or influence your decision to continue in the study will be provided in writing. If they decide to continue in the study, they will sign a new Informed Consent Form, duly revised to document their knowledge of the new information.
+In Case of Research-Related Damages: In case of personal injury, directly caused by the procedures or treatments proposed in this study (proven causal link), the participant will be entitled to medical treatment at the Institution, as well as to legally established indemnities.
+Use of Medical Records and Confidentiality: All information collected in this study is strictly confidential. Only the team of researchers  will be aware of the data and the results of the tests will be analyzed in a strictly scientific manner, maintaining confidentiality, that is, at no time will the data that identifies you be disclosed, unless required by law. Medical records with your identification and signed consent form may be inspected by regulatory agencies and the CEP. The results of this research may be presented at meetings or publications, however, your identity will not be revealed in these presentations. This consent form will be prepared in two copies, initialed on all its pages and signed, at the end, by the person invited to participate in the research, or by his legal representative, as well as by the responsible researcher, or by the person(s) delegated by him/her, and the pages of the signatures must be on the same sheet. Both copies must contain the address and telephone or other contact details of those responsible for the research and the local zip code. You will receive a copy of this consent form duly signed.
+Who Should I Contact in Case of Doubt: If you need additional clarification, any explanation or want to make any suggestion or complaint, you should contact Dr. Silvana Magalhães Passos de Souza at the Rheumatology Service at the Outpatient Clinic of the Professor Edgar Santos University Hospital (HUPES) on Mondays or Thursday afternoons or by phone (71) 988330065.
+You can also look for Dr. Mittermayer Barreto Santiago at the same Outpatient Clinic on Friday afternoons, or by calling (71) 32838383 and (71) 988355001.
+Be aware that if you have any questions and/or complaints, you can also contact the Research Ethics Committee of the Professor Edgar Santos University Hospital, located at Rua Augusto Viana, s/ nº, Canela, in the city of Salvador, tel (71) 3283-8043, e-mail cep.hupes@gmail.com or the Regional Council of Medicine (CREMEB), located at Rua Guadalajara nº 15,  Ondina, tel.3339-2800.
+
+
+
+
+
+Declaration of Consent:
+Agrees to participate in the study entitled "Study of Pulmonary Involvement in a Sample of Patients with Rheumatoid Arthritis".
+
+Research Participant or his/her Guardian:
+Name __
+Signature______________________________________
+
+Researcher in Charge of the Research or Person Delegated by Him
+Name __
+Signature________________________________________
+
+
+
+
+
+
+
+
+
+
+	
+ANNEX 2
+Substantiated opinion from the research ethics committee (cep)
+   
+
+
+ANNEX 2    
+
+
+ANNEX 3
+Questionário 
+
+ARTRITE REUMATOIDE
+Número: ---------------
+Data do preenchimento: --------------------
+Nome: -------------------------------------------------------------------------
+Sexo F ( ) M ( ) / Cor Negra ( ) Parda ( ) Branca ( ) Mulato ( )
+Profissão: ---------------- Naturalidade: ----------------- DN: --- /--- /--- Idade: -----
+Endereço: --------------------------------------------------------------------
+Tempo de doença: ------------------- Tempo de seguimento: --------------------------- 
+Queixas clínicas: artralgias ( ) edema articular ( ) dor torácica ( ) 
+dispnéia ( ) tosse ( ) mal estar geral ( ) adinamia ( ) febre ( )
+outras ( )
+Tabagismo sim ( ) não ( ) há quanto tempo -----------------
+Outros diagnósticos: -------------------------------------------------
+Tratamento atual: prednisona ( ) MTX ( ) LFN ( ) sulfassalazina ( )
+Biológico ( ) qual? ------------------------------------ 
+Outros: ---------------------------------------------------
+RX tórax – data de realização ------------------- achados: -------------------------------------------------------------------------------------------------------------------------------------------
+TCAR – data de realização ---------------------- achados: -------------------------------------------------------------------------------------------------------------------------------------------
+Ex. Função pulmonar ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Laboratório – data da coleta --------------------
+Hb ------ Ht ------ leuc ---------------------------- VHS ------ PCR ------ FR -------
+Anti-CCP -------------- FAN -------------------- DAS – 28 -----------------------------
+Outros ------------------------------------------------------------------------------------------------Questionnaire
+RHEUMATOID ARTHRITIS
+Number:---------------
+Completion date: --------------------
+Name:-------------------------------------------------------------------------
+Sex F ( ) M ( ) / Color Black ( ) Brown ( ) White ( ) Mulatto ( )
+Profession: ---------------- Place of birth: ----------------- DN: --- /--- /--- Age: -----
+Address:--------------------------------------------------------------------
+Duration of illness: ------------------- Follow-up time: --------------------------- 
+Clinical complaints: arthralgias ( ) joint edema ( ) chest pain ( ) 
+dyspnea ( ) cough ( ) general malaise ( ) adynamia ( ) fever ( )
+Other ( )
+Smoking yes ( ) no ( ) how long has -----------------
+Other diagnoses: -------------------------------------------------
+Current treatment: prednisone ( ) MTX ( ) LFN ( ) sulfasalazine ( )
+Biological ( ) which one? ------------------------------------ 
+Other:---------------------------------------------------
+Chest X-ray – date of performance ------------------- findings: -------------------------------------------------------------------------------------------------------------------------------------------
+HRCT – date of performance ---------------------- findings: -------------------------------------------------------------------------------------------------------------------------------------------
+E.g. Lung function ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Laboratory – date of collection --------------------
+Hb ------ Ht ------ leuk---------------------------- VHS ------ PCR ------ FR -------
+Anti-CCP -------------- FAN -------------------- SAR – 28 -----------------------------
+Other------------------------------------------------------------------------------------------------
